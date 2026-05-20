@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit.components.v1 as components
 st.set_page_config(layout="wide")
 
-df = pd.read_csv("G:/resturants/swiggy_vs_zomato_3000.csv")
+df = pd.read_csv("resturants/swiggy_vs_zomato_3000.csv")
 
 st.title('Indian Cuisine Dashboard')
 st.caption('Based on Zomato and Swiggy data')
