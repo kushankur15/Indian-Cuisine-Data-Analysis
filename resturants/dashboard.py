@@ -6,10 +6,6 @@ st.set_page_config(layout="wide")
 
 df = pd.read_csv("swiggy_vs_zomato_3000.csv")
 
-df.to_parquet("swiggy_vs_zomato_3000.parquet")
-
-df = pd.read_parquet("swiggy_vs_zomato_3000.parquet")
-
 st.title('Indian Cuisine Dashboard')
 st.caption('Based on Zomato and Swiggy data')
 
