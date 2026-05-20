@@ -143,7 +143,7 @@ elif options=="Swiggy-Zomato Average Ratings over Cuisine":
                 • Seafood Cuisine has the lowest rating of 3.944 on Zomato\n
             '''
         )
-    with open("ratings.html", "r") as f:
+    with open("resturants/ratings.html", "r") as f:
         html_code = f.read()
 
     st.components.v1.html(html_code, height=500)
@@ -200,7 +200,7 @@ elif options=="Monthly Orders Based On Cuisine":
         )
 
     st.subheader("Overall Monthly Orders Comparison")
-    html_code = open("orders.html", "r").read()
+    html_code = open("resturants/orders.html", "r").read()
     st.components.v1.html(html_code, height=550)
 
 elif options=="Estimated Monthly Orders Based On City":
@@ -241,5 +241,5 @@ elif options=="Estimated Net Profit Based On City":
     components.html(html_code, height=900)
 
     st.subheader("Total Estimated profit Comparison")
-    html_code = open("profit.html", "r").read()
+    html_code = open("resturants/profit.html", "r").read()
     st.components.v1.html(html_code, height=800)
