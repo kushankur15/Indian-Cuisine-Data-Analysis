@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Swiggy vs Zomato Glow UI</title>
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+    }
+
+    body{
+      width:100vw;
+      height:100vh;
+      overflow:hidden;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      background:#000;
+      font-family:'Poppins', sans-serif;
+    }
+
+    /* MAIN CANVAS */
+    .scene{
+      position:relative;
+      width:1400px;
+      height:800px;
+      background:#000;
+      overflow:hidden;
+    }
+
+    /* VALUE TEXT */
+    .value{
+      position:absolute;
+      top:180px;
+      left:390px;
+
+      font-size:78px;
+      font-weight:600;
+      color:#ffffff;
+
+      letter-spacing:1px;
+
+      text-shadow:
+        0 0 5px rgba(0,255,120,0.95),
+        0 0 10px rgba(0,255,120,0.9),
+        0 0 18px rgba(0,255,120,0.8),
+        0 0 28px rgba(0,255,120,0.55);
+    }
+
+    .swiggy-glow{
+          position:absolute;
+
+          width:320px;
+          height:320px;
+
+          left:320px;
+          bottom:40px;
+
+          border-radius:50%;
+
+          background:radial-gradient(circle,
+                    rgba(255,120,20,0.45) 0%,
+                    rgba(255,120,20,0.22) 30%,
+                    rgba(255,120,20,0.10) 55%,
+                    rgba(255,120,20,0.03) 75%,
+                    transparent 100%);
+
+          filter:blur(45px);
+          pointer-events:none;
+        }
+
+
+        /* ZOMATO RED GLOW */
+        .zomato-glow{
+          position:absolute;
+        
+          width:460px;
+          height:460px;
+        
+          right:260px;
+          bottom:40px;
+        
+          border-radius:50%;
+        
+          background:radial-gradient(circle,
+                    rgba(255,0,40,0.50) 0%,
+                    rgba(255,0,40,0.24) 32%,
+                    rgba(255,0,40,0.10) 58%,
+                    rgba(255,0,40,0.03) 78%,
+                    transparent 100%);
+        
+          filter:blur(55px);
+          pointer-events:none;
+        }
+
+    /* BARS CONTAINER */
+    .bars{
+      position:absolute;
+      bottom:90px;
+      left:420px;
+
+      display:flex;
+      align-items:flex-end;
+      gap:300px;
+    }
+
+    /* COMMON BAR STYLE */
+    .bar{
+      position:relative;
+      width:145px;
+      border-radius:34px;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+
+      box-shadow:
+        0 0 15px rgba(255,255,255,0.04),
+        0 0 30px rgba(255,0,0,0.15);
+    }
+
+    /* SWIGGY BAR */
+    .swiggy{
+      height:340px;
+      background:#ff7418;
+    }
+
+    /* ZOMATO BAR */
+    .zomato{
+      height:610px;
+      background:#ff2b32;
+    }
+
+    /* VERTICAL TEXT */
+    .bar span{
+      writing-mode:vertical-rl;
+      text-orientation:mixed;
+
+      color:#ffffff;
+      font-size:58px;
+      font-weight:300;
+      letter-spacing:2px;
+
+      user-select:none;
+    }
+
+    /* HEIGHT MARKER */
+    .marker{
+      position:absolute;
+      right:560px;
+      top:82px;
+
+      width:18px;
+      height:470px;
+    }
+
+    .marker .line{
+      position:absolute;
+      left:50%;
+      transform:translateX(-50%);
+      width:5px;
+      height:60%;
+      background:#f1f1f1;
+      border-radius:10px;
+    }
+
+    .marker::before,
+    .marker::after{
+      content:"";
+      position:absolute;
+      width:34px;
+      height:5px;
+      background:#f1f1f1;
+      left:50%;
+      transform:translateX(-50%);
+      border-radius:10px;
+    }
+
+    .marker::before{
+      top:0;
+    }
+
+    /*.marker::after{
+      bottom:0;
+    }*/
+
+  </style>
+</head>
+
+<body>
+
+  <div class="scene">
+
+      <!-- VALUE -->
+      <div class="value">&#8377;782,977</div>
+
+      <!-- HEIGHT MARKER -->
+      <div class="marker">
+          <div class="line"></div>
+      </div>
+
+      <!-- BARS -->
+      <div class="swiggy-glow"></div>
+      <div class="zomato-glow"></div>
+      <div class="bars">
+
+          <div class="bar swiggy">
+              <span>SWIGGY</span>
+          </div>
+
+          <div class="bar zomato">
+              <span>zomato</span>
+          </div>
+
+      </div>
+
+  </div>
+
+</body>
+</html>

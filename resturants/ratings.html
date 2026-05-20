@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rating Comparison</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Bangers&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:black;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    overflow:hidden;
+    font-family:'Poppins', sans-serif;
+}
+
+/* MAIN CONTAINER */
+
+.container{
+    width:1200px;
+    height:500px;
+    position:relative;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:0 40px;
+}
+
+/* GLOW EFFECTS */
+
+.container::before{
+    content:'';
+    position:absolute;
+    width:350px;
+    height:350px;
+    background:rgba(255,120,0,0.25);
+    filter:blur(120px);
+    left:-80px;
+    top:100px;
+}
+
+.container::after{
+    content:'';
+    position:absolute;
+    width:400px;
+    height:400px;
+    background:rgba(255,0,0,0.28);
+    filter:blur(120px);
+    right:-100px;
+    top:60px;
+}
+
+/* CIRCLES */
+
+.circle{
+    width:190px;
+    height:190px;
+    border-radius:50%;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    color:white;
+    z-index:2;
+    text-align:center;
+}
+
+.swiggy{
+    background:#ff7a1a;
+    box-shadow:
+        0 0 25px rgba(255,122,26,0.9),
+        0 0 60px rgba(255,122,26,0.5);
+}
+
+.zomato{
+    width:260px;
+    height:260px;
+    background:#ff2d2d;
+    box-shadow:
+        0 0 35px rgba(255,45,45,0.95),
+        0 0 80px rgba(255,45,45,0.6);
+}
+
+/* TEXT */
+
+.platform{
+    font-size:26px;
+    font-weight:500;
+    line-height:1.1;
+}
+
+.rating-label{
+    font-size:22px;
+    font-weight:300;
+    line-height:1.2;
+}
+
+.rating{
+    margin-top:8px;
+    font-size:38px;
+    font-family:'Bangers', cursive;
+    letter-spacing:2px;
+    text-shadow:
+        /*0 0 6px white,*/
+        0 0 14px rgba(255,255,255,0.7);
+}
+
+/* CENTER TEXT */
+
+.middle{
+    position:relative;
+    flex:1;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    z-index:2;
+}
+
+.middle-content{
+    position:relative;
+    width:100%;
+    text-align:center;
+}
+
+.delta-text{
+    color:white;
+    font-size:60px;
+    font-family:'Bangers', cursive;
+    letter-spacing:3px;
+
+    text-shadow:
+        /*0 0 5px #ffffff,
+        0 0 12px #ff4df0,*/
+        0 0 20px rgba(255,77,240,0.6);
+}
+
+/* WHITE LINE */
+
+.line{
+    width:75%;
+    height:4px;
+    background:white;
+    margin:18px auto 0 auto;
+    box-shadow:0 0 10px rgba(255,255,255,0.8);
+}
+
+/* RESPONSIVE */
+
+@media(max-width:900px){
+
+    .container{
+        flex-direction:column;
+        height:auto;
+        gap:40px;
+        padding:40px 20px;
+    }
+
+    .middle{
+        width:100%;
+    }
+
+    .delta-text{
+        font-size:42px;
+    }
+
+    .zomato{
+        width:220px;
+        height:220px;
+    }
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- SWIGGY -->
+
+    <div class="circle swiggy">
+        <div class="platform">SWIGGY</div>
+        <div class="rating-label">Rating</div>
+        <div class="rating">3.978388</div>
+    </div>
+
+    <!-- CENTER -->
+
+    <div class="middle">
+        <div class="middle-content">
+
+            <div class="delta-text">
+                 &#9650;(RATING) = 0.030661
+            </div>
+
+            <div class="line"></div>
+
+        </div>
+    </div>
+
+    <!-- ZOMATO -->
+
+    <div class="circle zomato">
+        <div class="platform" style="font-size:40px;">zomato</div>
+        <div class="rating-label" style="font-size:26px;">Rating</div>
+        <div class="rating" style="font-size:52px;">4.009049</div>
+    </div>
+
+</div>
+
+</body>
+</html>

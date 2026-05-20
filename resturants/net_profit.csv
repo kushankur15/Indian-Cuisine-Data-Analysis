@@ -1,0 +1,2929 @@
+,cuisines,city,platform,net_profit
+0,Italian,Mumbai,swiggy,109348
+1,Mughlai,Mumbai,swiggy,197113
+2,Mediterranean,Mumbai,swiggy,168510
+3,Desserts,Mumbai,swiggy,109295
+4,Mexican,Mumbai,swiggy,215098
+5,Thai,Mumbai,swiggy,57846
+6,Mexican,Mumbai,swiggy,91599
+7,Chinese,Mumbai,swiggy,211684
+8,Cafe,Mumbai,swiggy,132004
+9,Multi-Cuisine,Mumbai,swiggy,120374
+10,Pan-Asian,Mumbai,swiggy,323492
+11,Seafood,Mumbai,swiggy,232694
+12,Japanese,Mumbai,swiggy,26425
+13,Mexican,Mumbai,swiggy,142562
+14,Multi-Cuisine,Mumbai,swiggy,121870
+15,Japanese,Mumbai,swiggy,243599
+16,Continental,Mumbai,swiggy,162537
+17,Lebanese,Mumbai,swiggy,168787
+18,North Indian,Mumbai,swiggy,97496
+19,Thai,Mumbai,swiggy,184926
+20,Japanese,Mumbai,swiggy,128109
+21,North Indian,Mumbai,swiggy,89570
+22,Pan-Asian,Mumbai,swiggy,114271
+23,Lebanese,Mumbai,swiggy,47072
+24,Pan-Asian,Mumbai,swiggy,48151
+25,Mexican,Mumbai,swiggy,181484
+26,South Indian,Mumbai,swiggy,41986
+27,Lebanese,Mumbai,swiggy,159042
+28,Lebanese,Mumbai,swiggy,32509
+29,Multi-Cuisine,Mumbai,swiggy,40118
+30,Korean,Mumbai,swiggy,65786
+31,Continental,Mumbai,swiggy,75616
+32,Japanese,Mumbai,swiggy,54088
+33,Bakery,Mumbai,swiggy,75541
+34,Mughlai,Mumbai,swiggy,171580
+35,Bakery,Mumbai,swiggy,174749
+36,Korean,Mumbai,swiggy,42964
+37,Seafood,Mumbai,swiggy,110027
+38,Chinese,Mumbai,swiggy,97744
+39,Street Food,Mumbai,swiggy,310648
+40,Biryani,Mumbai,swiggy,82873
+41,Pan-Asian,Mumbai,swiggy,126280
+42,Lebanese,Mumbai,swiggy,77461
+43,Continental,Mumbai,swiggy,97456
+44,Italian,Mumbai,swiggy,181388
+45,Mediterranean,Mumbai,swiggy,142223
+46,Mediterranean,Mumbai,swiggy,43154
+47,Bakery,Mumbai,swiggy,121094
+48,Biryani,Mumbai,swiggy,26308
+49,Seafood,Mumbai,swiggy,153376
+50,Fast Food,Mumbai,swiggy,15605
+51,Street Food,Mumbai,swiggy,187103
+52,Mediterranean,Mumbai,swiggy,38605
+53,Fast Food,Mumbai,swiggy,254363
+54,South Indian,Mumbai,swiggy,208784
+55,Korean,Mumbai,swiggy,198201
+56,Street Food,Mumbai,swiggy,406537
+57,Cafe,Mumbai,swiggy,33354
+58,Cafe,Mumbai,swiggy,19584
+59,Thai,Mumbai,swiggy,91836
+60,Continental,Mumbai,swiggy,70776
+61,Pan-Asian,Mumbai,swiggy,155672
+62,Thai,Mumbai,swiggy,128249
+63,Vietnamese,Mumbai,swiggy,40050
+64,Chinese,Mumbai,swiggy,119922
+65,South Indian,Mumbai,swiggy,35258
+66,Seafood,Mumbai,swiggy,120492
+67,South Indian,Mumbai,swiggy,141650
+68,Street Food,Mumbai,swiggy,159732
+69,Bakery,Mumbai,swiggy,20793
+70,Mediterranean,Mumbai,swiggy,194876
+71,Pan-Asian,Mumbai,swiggy,36186
+72,Bakery,Mumbai,swiggy,63617
+73,Cafe,Mumbai,swiggy,161525
+74,Cafe,Mumbai,swiggy,62571
+75,South Indian,Mumbai,swiggy,112758
+76,Biryani,Mumbai,swiggy,117739
+77,Mughlai,Mumbai,swiggy,219492
+78,Mughlai,Mumbai,swiggy,65000
+79,Mediterranean,Mumbai,swiggy,37325
+80,Street Food,Mumbai,swiggy,186441
+81,Bakery,Mumbai,swiggy,80551
+82,Mughlai,Mumbai,swiggy,76218
+83,Italian,Mumbai,swiggy,108106
+84,Chinese,Mumbai,swiggy,118480
+85,Vietnamese,Mumbai,swiggy,40979
+86,Pan-Asian,Mumbai,swiggy,81912
+87,Japanese,Mumbai,swiggy,34146
+88,Street Food,Mumbai,swiggy,81211
+89,Continental,Mumbai,swiggy,63729
+90,Continental,Mumbai,swiggy,61404
+91,Mediterranean,Mumbai,swiggy,272089
+92,Thai,Mumbai,swiggy,91756
+93,Japanese,Mumbai,swiggy,146894
+94,South Indian,Mumbai,swiggy,132696
+95,Fast Food,Mumbai,swiggy,280187
+96,Pan-Asian,Mumbai,swiggy,279480
+97,Street Food,Mumbai,swiggy,169492
+98,Korean,Mumbai,swiggy,43379
+99,Lebanese,Mumbai,swiggy,221929
+100,Seafood,Mumbai,swiggy,183115
+101,Cafe,Mumbai,swiggy,109293
+102,Mexican,Mumbai,swiggy,168244
+103,Continental,Mumbai,swiggy,184469
+104,Cafe,Mumbai,swiggy,105113
+105,Fast Food,Mumbai,swiggy,46786
+106,Mexican,Mumbai,swiggy,274628
+107,Multi-Cuisine,Mumbai,swiggy,47466
+108,Multi-Cuisine,Mumbai,swiggy,60865
+109,Chinese,Mumbai,swiggy,164220
+110,Desserts,Mumbai,swiggy,174388
+111,Continental,Mumbai,swiggy,84908
+112,Chinese,Mumbai,swiggy,129516
+113,Italian,Mumbai,swiggy,114162
+114,Cafe,Mumbai,swiggy,82502
+115,Street Food,Mumbai,swiggy,126698
+116,Chinese,Mumbai,swiggy,203143
+117,Korean,Mumbai,swiggy,148406
+118,Seafood,Mumbai,swiggy,48308
+119,Lebanese,Mumbai,swiggy,111304
+120,Desserts,Mumbai,swiggy,232921
+121,Biryani,Mumbai,swiggy,104480
+122,Mediterranean,Mumbai,swiggy,182520
+123,Korean,Mumbai,swiggy,136645
+124,Continental,Mumbai,swiggy,191412
+125,South Indian,Mumbai,swiggy,137685
+126,Korean,Mumbai,swiggy,80449
+127,Continental,Mumbai,swiggy,106841
+128,Desserts,Mumbai,swiggy,231565
+129,Vietnamese,Mumbai,swiggy,40146
+130,Continental,Mumbai,swiggy,114784
+131,Bakery,Mumbai,swiggy,46828
+132,Biryani,Mumbai,swiggy,32022
+133,Multi-Cuisine,Mumbai,swiggy,113170
+134,Bakery,Mumbai,swiggy,74281
+135,Desserts,Mumbai,swiggy,80446
+136,Korean,Mumbai,swiggy,45025
+137,North Indian,Mumbai,swiggy,218755
+138,Biryani,Mumbai,swiggy,158991
+139,Seafood,Mumbai,swiggy,87144
+140,Continental,Mumbai,swiggy,127788
+141,Multi-Cuisine,Mumbai,swiggy,278543
+142,North Indian,Mumbai,swiggy,155148
+143,Mexican,Mumbai,swiggy,271599
+144,Japanese,Mumbai,swiggy,153039
+145,Seafood,Mumbai,swiggy,155213
+146,Multi-Cuisine,Mumbai,swiggy,76252
+147,Street Food,Mumbai,swiggy,121555
+148,Cafe,Mumbai,swiggy,168952
+149,Korean,Mumbai,swiggy,92017
+150,Seafood,Mumbai,swiggy,46645
+151,Thai,Mumbai,swiggy,190014
+152,South Indian,Mumbai,swiggy,118436
+153,Korean,Mumbai,swiggy,278576
+154,Italian,Mumbai,swiggy,123718
+155,Thai,Mumbai,swiggy,103117
+156,Korean,Mumbai,swiggy,75666
+157,Mughlai,Mumbai,swiggy,180604
+158,Korean,Mumbai,swiggy,138983
+159,North Indian,Mumbai,swiggy,154670
+160,Lebanese,Mumbai,swiggy,102133
+161,South Indian,Mumbai,swiggy,130001
+162,Seafood,Mumbai,swiggy,24243
+163,Bakery,Mumbai,swiggy,92075
+164,Thai,Mumbai,swiggy,215333
+165,Chinese,Mumbai,swiggy,175085
+166,Pan-Asian,Mumbai,swiggy,179306
+167,Cafe,Mumbai,swiggy,112344
+168,Cafe,Mumbai,swiggy,80730
+169,Japanese,Mumbai,swiggy,300653
+170,Street Food,Mumbai,swiggy,361579
+171,Lebanese,Mumbai,swiggy,45442
+172,Mediterranean,Mumbai,swiggy,159179
+173,Street Food,Mumbai,swiggy,181662
+174,Mediterranean,Mumbai,swiggy,236686
+175,Multi-Cuisine,Mumbai,swiggy,17438
+176,Lebanese,Mumbai,swiggy,172803
+177,Multi-Cuisine,Mumbai,swiggy,140677
+178,Mediterranean,Mumbai,swiggy,219982
+179,Multi-Cuisine,Mumbai,swiggy,123364
+180,Chinese,Mumbai,swiggy,40872
+181,Biryani,Mumbai,swiggy,37590
+182,Biryani,Mumbai,swiggy,257947
+183,Street Food,Mumbai,swiggy,74607
+184,Continental,Mumbai,swiggy,111743
+185,Korean,Mumbai,swiggy,103135
+186,Japanese,Mumbai,swiggy,32381
+187,Mughlai,Mumbai,swiggy,56942
+188,Street Food,Mumbai,swiggy,361920
+189,Japanese,Mumbai,swiggy,48227
+190,Mediterranean,Mumbai,swiggy,301459
+191,Desserts,Mumbai,swiggy,175698
+192,North Indian,Mumbai,swiggy,66735
+193,Seafood,Mumbai,swiggy,155255
+194,Italian,Mumbai,swiggy,20880
+195,South Indian,Mumbai,swiggy,124125
+196,Japanese,Mumbai,swiggy,50971
+197,Mexican,Mumbai,swiggy,33735
+198,Lebanese,Mumbai,swiggy,239401
+199,Multi-Cuisine,Mumbai,swiggy,69185
+200,Desserts,Mumbai,swiggy,33280
+201,Continental,Mumbai,swiggy,364341
+202,Lebanese,Mumbai,swiggy,136602
+203,Biryani,Mumbai,swiggy,202711
+204,Cafe,Mumbai,swiggy,114362
+205,Cafe,Mumbai,swiggy,208515
+206,North Indian,Mumbai,swiggy,80282
+207,North Indian,Mumbai,swiggy,49758
+208,North Indian,Mumbai,swiggy,172277
+209,Lebanese,Mumbai,swiggy,96345
+210,Mediterranean,Mumbai,swiggy,306453
+211,Italian,Mumbai,swiggy,86364
+212,Fast Food,Mumbai,swiggy,78853
+213,Lebanese,Mumbai,swiggy,75777
+214,Cafe,Mumbai,swiggy,71761
+215,Italian,Mumbai,swiggy,119119
+216,Seafood,Mumbai,swiggy,232781
+217,Vietnamese,Mumbai,swiggy,119647
+218,Italian,Mumbai,swiggy,102486
+219,Multi-Cuisine,Mumbai,swiggy,194651
+220,Street Food,Mumbai,swiggy,59040
+221,Korean,Mumbai,swiggy,87866
+222,Biryani,Mumbai,swiggy,131161
+223,Italian,Mumbai,swiggy,108501
+224,Bakery,Mumbai,swiggy,238606
+225,South Indian,Mumbai,swiggy,28879
+226,Pan-Asian,Mumbai,swiggy,103916
+227,Biryani,Mumbai,swiggy,165109
+228,Japanese,Mumbai,swiggy,35530
+229,Bakery,Mumbai,swiggy,140308
+230,North Indian,Mumbai,swiggy,330082
+231,Biryani,Mumbai,swiggy,23864
+232,Pan-Asian,Mumbai,swiggy,31181
+233,Pan-Asian,Mumbai,swiggy,327894
+234,Korean,Mumbai,swiggy,82328
+235,Pan-Asian,Mumbai,swiggy,47646
+236,Thai,Mumbai,swiggy,227452
+237,Desserts,Mumbai,swiggy,74030
+238,Japanese,Mumbai,swiggy,27771
+239,Lebanese,Mumbai,swiggy,86523
+240,Chinese,Mumbai,swiggy,227121
+241,Multi-Cuisine,Mumbai,swiggy,173120
+242,Pan-Asian,Mumbai,swiggy,139950
+243,Bakery,Mumbai,swiggy,208955
+244,Fast Food,Mumbai,swiggy,116908
+245,Italian,Mumbai,swiggy,77663
+246,Mughlai,Mumbai,swiggy,66039
+247,Mediterranean,Mumbai,swiggy,54502
+248,Multi-Cuisine,Mumbai,swiggy,126601
+249,Thai,Mumbai,swiggy,146355
+250,Korean,Mumbai,swiggy,230417
+251,Italian,Mumbai,swiggy,96589
+252,North Indian,Mumbai,swiggy,104848
+253,Street Food,Mumbai,swiggy,281363
+254,Mughlai,Mumbai,swiggy,72609
+255,Thai,Mumbai,swiggy,15953
+256,Biryani,Mumbai,swiggy,32404
+257,North Indian,Mumbai,swiggy,155426
+258,Multi-Cuisine,Mumbai,swiggy,79019
+259,Thai,Bangalore,swiggy,188795
+260,Korean,Bangalore,swiggy,116680
+261,Mediterranean,Bangalore,swiggy,41712
+262,Desserts,Bangalore,swiggy,57760
+263,Korean,Bangalore,swiggy,315250
+264,Italian,Bangalore,swiggy,80539
+265,Thai,Bangalore,swiggy,48257
+266,Korean,Bangalore,swiggy,209471
+267,Multi-Cuisine,Bangalore,swiggy,22946
+268,Fast Food,Bangalore,swiggy,128705
+269,Biryani,Bangalore,swiggy,167167
+270,Korean,Bangalore,swiggy,64340
+271,Bakery,Bangalore,swiggy,66553
+272,Japanese,Bangalore,swiggy,258860
+273,Continental,Bangalore,swiggy,185339
+274,Street Food,Bangalore,swiggy,34113
+275,Korean,Bangalore,swiggy,297820
+276,Biryani,Bangalore,swiggy,158855
+277,South Indian,Bangalore,swiggy,184388
+278,Vietnamese,Bangalore,swiggy,91593
+279,Chinese,Bangalore,swiggy,147350
+280,Mughlai,Bangalore,swiggy,182870
+281,Mexican,Bangalore,swiggy,33498
+282,Lebanese,Bangalore,swiggy,50968
+283,Biryani,Bangalore,swiggy,119234
+284,Italian,Bangalore,swiggy,64944
+285,Mughlai,Bangalore,swiggy,49880
+286,Continental,Bangalore,swiggy,326168
+287,Fast Food,Bangalore,swiggy,52700
+288,Mediterranean,Bangalore,swiggy,87814
+289,Biryani,Bangalore,swiggy,147160
+290,Bakery,Bangalore,swiggy,330645
+291,Multi-Cuisine,Bangalore,swiggy,270998
+292,Italian,Bangalore,swiggy,125143
+293,North Indian,Bangalore,swiggy,153063
+294,Mughlai,Bangalore,swiggy,123480
+295,Mughlai,Bangalore,swiggy,14281
+296,Mexican,Bangalore,swiggy,128027
+297,Desserts,Bangalore,swiggy,10771
+298,Italian,Bangalore,swiggy,187992
+299,North Indian,Bangalore,swiggy,260099
+300,Seafood,Bangalore,swiggy,159769
+301,Thai,Bangalore,swiggy,54644
+302,Multi-Cuisine,Bangalore,swiggy,226736
+303,Biryani,Bangalore,swiggy,173257
+304,Street Food,Bangalore,swiggy,280443
+305,Bakery,Bangalore,swiggy,110781
+306,Pan-Asian,Bangalore,swiggy,217459
+307,Continental,Bangalore,swiggy,252534
+308,Street Food,Bangalore,swiggy,231343
+309,Thai,Bangalore,swiggy,129074
+310,Mexican,Bangalore,swiggy,270146
+311,Seafood,Bangalore,swiggy,72613
+312,Mediterranean,Bangalore,swiggy,190408
+313,North Indian,Bangalore,swiggy,312786
+314,North Indian,Bangalore,swiggy,145600
+315,Mughlai,Bangalore,swiggy,92086
+316,Mughlai,Bangalore,swiggy,46413
+317,Korean,Bangalore,swiggy,87495
+318,Bakery,Bangalore,swiggy,87821
+319,Continental,Bangalore,swiggy,41145
+320,Mexican,Bangalore,swiggy,233649
+321,North Indian,Bangalore,swiggy,112494
+322,Mughlai,Bangalore,swiggy,17370
+323,Multi-Cuisine,Bangalore,swiggy,56578
+324,Mexican,Bangalore,swiggy,182832
+325,Mughlai,Bangalore,swiggy,36624
+326,Multi-Cuisine,Bangalore,swiggy,220042
+327,Italian,Bangalore,swiggy,121378
+328,Chinese,Bangalore,swiggy,22303
+329,Mexican,Bangalore,swiggy,119833
+330,Mediterranean,Bangalore,swiggy,146260
+331,Cafe,Bangalore,swiggy,51113
+332,Korean,Bangalore,swiggy,227295
+333,Korean,Bangalore,swiggy,58698
+334,Thai,Bangalore,swiggy,120944
+335,Street Food,Bangalore,swiggy,122154
+336,Biryani,Bangalore,swiggy,97130
+337,South Indian,Bangalore,swiggy,178989
+338,Mediterranean,Bangalore,swiggy,34089
+339,Thai,Bangalore,swiggy,121237
+340,Multi-Cuisine,Bangalore,swiggy,71300
+341,Mughlai,Bangalore,swiggy,24725
+342,Lebanese,Bangalore,swiggy,180768
+343,Fast Food,Bangalore,swiggy,88113
+344,Biryani,Bangalore,swiggy,281686
+345,Italian,Bangalore,swiggy,135955
+346,Seafood,Bangalore,swiggy,36822
+347,Continental,Bangalore,swiggy,142541
+348,Pan-Asian,Bangalore,swiggy,100377
+349,Chinese,Bangalore,swiggy,83221
+350,Lebanese,Bangalore,swiggy,55920
+351,Italian,Bangalore,swiggy,197604
+352,Japanese,Bangalore,swiggy,268223
+353,Pan-Asian,Bangalore,swiggy,274651
+354,Seafood,Bangalore,swiggy,68471
+355,Japanese,Bangalore,swiggy,304217
+356,Mughlai,Bangalore,swiggy,135973
+357,South Indian,Bangalore,swiggy,208208
+358,Lebanese,Bangalore,swiggy,91354
+359,Mediterranean,Bangalore,swiggy,166431
+360,Cafe,Bangalore,swiggy,122712
+361,Pan-Asian,Bangalore,swiggy,99127
+362,Japanese,Bangalore,swiggy,156105
+363,Desserts,Bangalore,swiggy,22358
+364,Japanese,Bangalore,swiggy,117149
+365,Korean,Bangalore,swiggy,148075
+366,Mughlai,Bangalore,swiggy,232213
+367,Fast Food,Bangalore,swiggy,145189
+368,Korean,Bangalore,swiggy,61072
+369,Chinese,Bangalore,swiggy,223537
+370,Lebanese,Bangalore,swiggy,118849
+371,Desserts,Bangalore,swiggy,74907
+372,Bakery,Bangalore,swiggy,130622
+373,Pan-Asian,Bangalore,swiggy,42955
+374,Multi-Cuisine,Bangalore,swiggy,139202
+375,Cafe,Bangalore,swiggy,153006
+376,Bakery,Bangalore,swiggy,304358
+377,Multi-Cuisine,Bangalore,swiggy,187553
+378,Multi-Cuisine,Bangalore,swiggy,60686
+379,Vietnamese,Bangalore,swiggy,231654
+380,Seafood,Bangalore,swiggy,50919
+381,Japanese,Bangalore,swiggy,188011
+382,Desserts,Bangalore,swiggy,76370
+383,Continental,Bangalore,swiggy,36321
+384,Cafe,Bangalore,swiggy,272199
+385,Mexican,Bangalore,swiggy,170208
+386,Biryani,Bangalore,swiggy,150244
+387,North Indian,Bangalore,swiggy,201410
+388,South Indian,Bangalore,swiggy,272077
+389,Mughlai,Bangalore,swiggy,200610
+390,Korean,Bangalore,swiggy,223664
+391,Thai,Bangalore,swiggy,34204
+392,Japanese,Bangalore,swiggy,105519
+393,Fast Food,Bangalore,swiggy,56668
+394,Desserts,Bangalore,swiggy,200632
+395,Fast Food,Bangalore,swiggy,41763
+396,Cafe,Bangalore,swiggy,166125
+397,Biryani,Bangalore,swiggy,139113
+398,Pan-Asian,Bangalore,swiggy,250636
+399,Fast Food,Bangalore,swiggy,45840
+400,Fast Food,Bangalore,swiggy,68661
+401,Bakery,Bangalore,swiggy,18800
+402,Chinese,Bangalore,swiggy,164788
+403,Vietnamese,Bangalore,swiggy,160367
+404,Vietnamese,Bangalore,swiggy,122696
+405,Seafood,Bangalore,swiggy,41117
+406,South Indian,Bangalore,swiggy,166715
+407,Vietnamese,Bangalore,swiggy,153384
+408,Mexican,Bangalore,swiggy,71955
+409,Multi-Cuisine,Bangalore,swiggy,184329
+410,Mughlai,Bangalore,swiggy,67319
+411,Pan-Asian,Bangalore,swiggy,23466
+412,Japanese,Bangalore,swiggy,244362
+413,Multi-Cuisine,Bangalore,swiggy,117303
+414,Vietnamese,Bangalore,swiggy,26592
+415,Fast Food,Bangalore,swiggy,297059
+416,Korean,Bangalore,swiggy,257357
+417,Mughlai,Bangalore,swiggy,175542
+418,Mediterranean,Bangalore,swiggy,216672
+419,Continental,Bangalore,swiggy,32613
+420,Biryani,Bangalore,swiggy,76832
+421,Mediterranean,Bangalore,swiggy,31847
+422,South Indian,Bangalore,swiggy,282077
+423,North Indian,Bangalore,swiggy,94137
+424,Korean,Bangalore,swiggy,223899
+425,Japanese,Bangalore,swiggy,131701
+426,Italian,Bangalore,swiggy,65853
+427,Pan-Asian,Bangalore,swiggy,175462
+428,Mughlai,Bangalore,swiggy,156462
+429,Korean,Bangalore,swiggy,25941
+430,Cafe,Bangalore,swiggy,164064
+431,Street Food,Bangalore,swiggy,55755
+432,Continental,Bangalore,swiggy,33864
+433,Lebanese,Bangalore,swiggy,107099
+434,Fast Food,Bangalore,swiggy,119412
+435,Mediterranean,Bangalore,swiggy,128119
+436,Continental,Bangalore,swiggy,111384
+437,Pan-Asian,Bangalore,swiggy,155500
+438,Mexican,Bangalore,swiggy,211461
+439,Japanese,Bangalore,swiggy,138439
+440,Street Food,Bangalore,swiggy,79037
+441,Biryani,Bangalore,swiggy,146064
+442,Seafood,Bangalore,swiggy,52488
+443,Fast Food,Bangalore,swiggy,32298
+444,South Indian,Bangalore,swiggy,16427
+445,South Indian,Bangalore,swiggy,206437
+446,Pan-Asian,Bangalore,swiggy,119819
+447,Pan-Asian,Bangalore,swiggy,224186
+448,Biryani,Bangalore,swiggy,137484
+449,Desserts,Bangalore,swiggy,266652
+450,Lebanese,Bangalore,swiggy,120350
+451,Fast Food,Bangalore,swiggy,259704
+452,Street Food,Bangalore,swiggy,192299
+453,Bakery,Bangalore,swiggy,58205
+454,Vietnamese,Bangalore,swiggy,55884
+455,Japanese,Bangalore,swiggy,254329
+456,Mediterranean,Bangalore,swiggy,25555
+457,Mexican,Bangalore,swiggy,43243
+458,Vietnamese,Bangalore,swiggy,28775
+459,Street Food,Bangalore,swiggy,80006
+460,Continental,Bangalore,swiggy,96343
+461,Seafood,Bangalore,swiggy,170176
+462,Multi-Cuisine,Bangalore,swiggy,270207
+463,Pan-Asian,Bangalore,swiggy,74767
+464,Seafood,Bangalore,swiggy,140524
+465,Mediterranean,Bangalore,swiggy,133829
+466,Vietnamese,Bangalore,swiggy,117062
+467,Mexican,Bangalore,swiggy,96697
+468,Japanese,Bangalore,swiggy,82661
+469,Biryani,Bangalore,swiggy,37665
+470,Bakery,Bangalore,swiggy,18721
+471,Lebanese,Bangalore,swiggy,251001
+472,Bakery,Bangalore,swiggy,149335
+473,Vietnamese,Bangalore,swiggy,149547
+474,Cafe,Bangalore,swiggy,211134
+475,Vietnamese,Bangalore,swiggy,43437
+476,Biryani,Bangalore,swiggy,30821
+477,Chinese,Bangalore,swiggy,112802
+478,Desserts,Bangalore,swiggy,137561
+479,Pan-Asian,Bangalore,swiggy,106550
+480,Fast Food,Bangalore,swiggy,32785
+481,Multi-Cuisine,Bangalore,swiggy,144917
+482,Street Food,Bangalore,swiggy,36616
+483,Biryani,Bangalore,swiggy,168585
+484,Mediterranean,Bangalore,swiggy,172336
+485,Bakery,Bangalore,swiggy,57852
+486,Multi-Cuisine,Bangalore,swiggy,64223
+487,Bakery,Bangalore,swiggy,195638
+488,South Indian,Bangalore,swiggy,160498
+489,Vietnamese,Bangalore,swiggy,191102
+490,Continental,Bangalore,swiggy,91327
+491,Street Food,Bangalore,swiggy,68347
+492,Bakery,Bangalore,swiggy,132341
+493,Mexican,Bangalore,swiggy,218286
+494,Japanese,Bangalore,swiggy,107086
+495,Continental,Bangalore,swiggy,120057
+496,Chinese,Bangalore,swiggy,76302
+497,Bakery,Bangalore,swiggy,96935
+498,Thai,Bangalore,swiggy,85207
+499,Korean,Bangalore,swiggy,167489
+500,Mediterranean,Delhi,swiggy,101400
+501,Pan-Asian,Delhi,swiggy,180370
+502,Seafood,Delhi,swiggy,20202
+503,Vietnamese,Delhi,swiggy,144005
+504,Lebanese,Delhi,swiggy,242252
+505,Thai,Delhi,swiggy,161252
+506,Bakery,Delhi,swiggy,131544
+507,Korean,Delhi,swiggy,200385
+508,Mexican,Delhi,swiggy,177579
+509,Cafe,Delhi,swiggy,142964
+510,Street Food,Delhi,swiggy,153148
+511,Thai,Delhi,swiggy,112883
+512,Fast Food,Delhi,swiggy,249491
+513,Pan-Asian,Delhi,swiggy,98283
+514,Street Food,Delhi,swiggy,44878
+515,Fast Food,Delhi,swiggy,24036
+516,Mughlai,Delhi,swiggy,185521
+517,Mughlai,Delhi,swiggy,130567
+518,Korean,Delhi,swiggy,52574
+519,Biryani,Delhi,swiggy,124365
+520,Thai,Delhi,swiggy,163322
+521,Biryani,Delhi,swiggy,277920
+522,Multi-Cuisine,Delhi,swiggy,180548
+523,Bakery,Delhi,swiggy,102036
+524,Italian,Delhi,swiggy,124056
+525,Mughlai,Delhi,swiggy,181250
+526,Continental,Delhi,swiggy,15912
+527,Lebanese,Delhi,swiggy,21800
+528,Cafe,Delhi,swiggy,254820
+529,Seafood,Delhi,swiggy,60913
+530,South Indian,Delhi,swiggy,117832
+531,Korean,Delhi,swiggy,55510
+532,Desserts,Delhi,swiggy,205705
+533,Continental,Delhi,swiggy,97090
+534,Seafood,Delhi,swiggy,31689
+535,Mexican,Delhi,swiggy,81016
+536,Biryani,Delhi,swiggy,54014
+537,Cafe,Delhi,swiggy,87947
+538,Bakery,Delhi,swiggy,267539
+539,Mediterranean,Delhi,swiggy,94803
+540,Lebanese,Delhi,swiggy,174079
+541,Vietnamese,Delhi,swiggy,184863
+542,Italian,Delhi,swiggy,156397
+543,South Indian,Delhi,swiggy,61463
+544,Japanese,Delhi,swiggy,103780
+545,Biryani,Delhi,swiggy,108129
+546,Vietnamese,Delhi,swiggy,81972
+547,Mexican,Delhi,swiggy,117089
+548,Mediterranean,Delhi,swiggy,121444
+549,Mediterranean,Delhi,swiggy,75040
+550,Chinese,Delhi,swiggy,39579
+551,Mediterranean,Delhi,swiggy,31473
+552,Pan-Asian,Delhi,swiggy,90833
+553,Thai,Delhi,swiggy,42400
+554,Thai,Delhi,swiggy,87038
+555,Continental,Delhi,swiggy,164558
+556,Vietnamese,Delhi,swiggy,228042
+557,Desserts,Delhi,swiggy,63816
+558,Italian,Delhi,swiggy,131915
+559,Street Food,Delhi,swiggy,259412
+560,Seafood,Delhi,swiggy,299098
+561,Continental,Delhi,swiggy,322567
+562,Mediterranean,Delhi,swiggy,115007
+563,South Indian,Delhi,swiggy,266279
+564,Biryani,Delhi,swiggy,32285
+565,Mediterranean,Delhi,swiggy,29802
+566,Lebanese,Delhi,swiggy,122459
+567,Cafe,Delhi,swiggy,245163
+568,Mughlai,Delhi,swiggy,220754
+569,Mexican,Delhi,swiggy,247154
+570,Cafe,Delhi,swiggy,33937
+571,Italian,Delhi,swiggy,134406
+572,North Indian,Delhi,swiggy,109153
+573,Korean,Delhi,swiggy,55563
+574,Thai,Delhi,swiggy,68500
+575,Fast Food,Delhi,swiggy,163037
+576,Japanese,Delhi,swiggy,201318
+577,Thai,Delhi,swiggy,49495
+578,Cafe,Delhi,swiggy,139263
+579,Continental,Delhi,swiggy,189245
+580,North Indian,Delhi,swiggy,290319
+581,Desserts,Delhi,swiggy,124064
+582,Italian,Delhi,swiggy,35113
+583,Fast Food,Delhi,swiggy,214944
+584,Seafood,Delhi,swiggy,34260
+585,Vietnamese,Delhi,swiggy,173638
+586,Desserts,Delhi,swiggy,94037
+587,Seafood,Delhi,swiggy,184026
+588,Seafood,Delhi,swiggy,130553
+589,Cafe,Delhi,swiggy,82919
+590,Street Food,Delhi,swiggy,43211
+591,Chinese,Delhi,swiggy,133316
+592,Mughlai,Delhi,swiggy,131796
+593,Continental,Delhi,swiggy,102682
+594,Lebanese,Delhi,swiggy,191883
+595,Thai,Delhi,swiggy,211023
+596,Mediterranean,Delhi,swiggy,137418
+597,South Indian,Delhi,swiggy,133893
+598,Bakery,Delhi,swiggy,166835
+599,Bakery,Delhi,swiggy,30457
+600,North Indian,Delhi,swiggy,336580
+601,North Indian,Delhi,swiggy,207385
+602,Seafood,Delhi,swiggy,225792
+603,Lebanese,Delhi,swiggy,84263
+604,Cafe,Delhi,swiggy,77095
+605,Mughlai,Delhi,swiggy,45902
+606,Continental,Delhi,swiggy,245559
+607,Chinese,Delhi,swiggy,71332
+608,Cafe,Delhi,swiggy,50228
+609,Vietnamese,Delhi,swiggy,209832
+610,Continental,Delhi,swiggy,187713
+611,Biryani,Delhi,swiggy,160919
+612,Vietnamese,Delhi,swiggy,120940
+613,Bakery,Delhi,swiggy,91193
+614,Biryani,Delhi,swiggy,162400
+615,Korean,Delhi,swiggy,233088
+616,Mughlai,Delhi,swiggy,117273
+617,Bakery,Delhi,swiggy,168004
+618,Desserts,Delhi,swiggy,29020
+619,Seafood,Delhi,swiggy,174472
+620,Lebanese,Delhi,swiggy,73314
+621,Italian,Delhi,swiggy,123038
+622,Japanese,Delhi,swiggy,57961
+623,Japanese,Delhi,swiggy,216296
+624,Italian,Delhi,swiggy,156859
+625,Seafood,Delhi,swiggy,147184
+626,Korean,Delhi,swiggy,17935
+627,Vietnamese,Delhi,swiggy,187042
+628,Japanese,Delhi,swiggy,152193
+629,Biryani,Delhi,swiggy,110080
+630,Multi-Cuisine,Delhi,swiggy,26348
+631,Pan-Asian,Delhi,swiggy,206672
+632,North Indian,Delhi,swiggy,234000
+633,Seafood,Delhi,swiggy,88633
+634,Mediterranean,Delhi,swiggy,143861
+635,Chinese,Delhi,swiggy,42993
+636,Continental,Delhi,swiggy,103832
+637,Chinese,Delhi,swiggy,176388
+638,Italian,Delhi,swiggy,71465
+639,Continental,Delhi,swiggy,152934
+640,Multi-Cuisine,Delhi,swiggy,51899
+641,Cafe,Delhi,swiggy,42744
+642,Street Food,Delhi,swiggy,102135
+643,Seafood,Delhi,swiggy,206640
+644,Desserts,Delhi,swiggy,203736
+645,Seafood,Delhi,swiggy,39677
+646,Vietnamese,Delhi,swiggy,78667
+647,Lebanese,Delhi,swiggy,160645
+648,Japanese,Delhi,swiggy,239105
+649,Biryani,Delhi,swiggy,272672
+650,Italian,Delhi,swiggy,92049
+651,Street Food,Delhi,swiggy,114444
+652,South Indian,Delhi,swiggy,245518
+653,Continental,Delhi,swiggy,112054
+654,Vietnamese,Delhi,swiggy,138639
+655,Lebanese,Delhi,swiggy,151636
+656,Chinese,Delhi,swiggy,124292
+657,Italian,Delhi,swiggy,41224
+658,Biryani,Delhi,swiggy,72354
+659,Mughlai,Delhi,swiggy,100037
+660,Street Food,Delhi,swiggy,58115
+661,Mughlai,Delhi,swiggy,147747
+662,Biryani,Delhi,swiggy,193347
+663,Japanese,Delhi,swiggy,164029
+664,Desserts,Delhi,swiggy,96321
+665,Desserts,Delhi,swiggy,77808
+666,Lebanese,Delhi,swiggy,293589
+667,Continental,Delhi,swiggy,101579
+668,Korean,Delhi,swiggy,26395
+669,Continental,Delhi,swiggy,77846
+670,Mexican,Delhi,swiggy,143914
+671,Thai,Delhi,swiggy,97802
+672,Continental,Delhi,swiggy,208384
+673,Street Food,Delhi,swiggy,94283
+674,Street Food,Delhi,swiggy,89809
+675,Street Food,Delhi,swiggy,24727
+676,North Indian,Delhi,swiggy,178989
+677,Mediterranean,Delhi,swiggy,83785
+678,Bakery,Delhi,swiggy,68674
+679,Street Food,Delhi,swiggy,64115
+680,Lebanese,Delhi,swiggy,124687
+681,North Indian,Delhi,swiggy,104815
+682,Bakery,Delhi,swiggy,145156
+683,South Indian,Delhi,swiggy,261275
+684,Thai,Delhi,swiggy,37511
+685,Chinese,Delhi,swiggy,305216
+686,Biryani,Delhi,swiggy,28200
+687,Pan-Asian,Delhi,swiggy,50114
+688,Pan-Asian,Delhi,swiggy,101052
+689,Thai,Delhi,swiggy,69891
+690,Mexican,Delhi,swiggy,101440
+691,Bakery,Delhi,swiggy,141952
+692,Cafe,Delhi,swiggy,133637
+693,Mexican,Delhi,swiggy,122944
+694,North Indian,Delhi,swiggy,112592
+695,Cafe,Delhi,swiggy,179152
+696,Biryani,Delhi,swiggy,87900
+697,Pan-Asian,Delhi,swiggy,326538
+698,North Indian,Delhi,swiggy,57172
+699,Mediterranean,Delhi,swiggy,92139
+700,Japanese,Delhi,swiggy,41097
+701,Biryani,Delhi,swiggy,263323
+702,Fast Food,Delhi,swiggy,179379
+703,Bakery,Delhi,swiggy,46426
+704,Italian,Delhi,swiggy,68367
+705,Thai,Delhi,swiggy,142172
+706,Street Food,Delhi,swiggy,16762
+707,Bakery,Delhi,swiggy,128460
+708,Biryani,Delhi,swiggy,42104
+709,Street Food,Delhi,swiggy,166465
+710,Lebanese,Delhi,swiggy,86386
+711,Seafood,Delhi,swiggy,131778
+712,Pan-Asian,Delhi,swiggy,173764
+713,North Indian,Delhi,swiggy,112330
+714,South Indian,Pune,swiggy,33470
+715,Bakery,Pune,swiggy,22092
+716,Biryani,Pune,swiggy,143935
+717,Biryani,Pune,swiggy,230909
+718,Biryani,Pune,swiggy,197308
+719,Italian,Pune,swiggy,60530
+720,Italian,Pune,swiggy,129048
+721,Biryani,Pune,swiggy,25360
+722,Continental,Pune,swiggy,16104
+723,Street Food,Pune,swiggy,158393
+724,Multi-Cuisine,Pune,swiggy,120924
+725,Desserts,Pune,swiggy,180009
+726,Mediterranean,Pune,swiggy,184412
+727,Korean,Pune,swiggy,80926
+728,Pan-Asian,Pune,swiggy,25194
+729,Cafe,Pune,swiggy,286598
+730,Desserts,Pune,swiggy,103605
+731,Mediterranean,Pune,swiggy,74792
+732,Seafood,Pune,swiggy,51757
+733,Street Food,Pune,swiggy,106328
+734,Biryani,Pune,swiggy,221498
+735,Mediterranean,Pune,swiggy,155386
+736,Korean,Pune,swiggy,148383
+737,Continental,Pune,swiggy,58162
+738,Mughlai,Pune,swiggy,100488
+739,Mughlai,Pune,swiggy,160124
+740,North Indian,Pune,swiggy,158760
+741,Japanese,Pune,swiggy,109363
+742,Cafe,Pune,swiggy,94330
+743,Thai,Pune,swiggy,106370
+744,Chinese,Pune,swiggy,83044
+745,Continental,Pune,swiggy,284986
+746,Street Food,Pune,swiggy,178534
+747,Chinese,Pune,swiggy,207116
+748,Street Food,Pune,swiggy,46740
+749,Desserts,Pune,swiggy,319915
+750,Lebanese,Pune,swiggy,322671
+751,Fast Food,Pune,swiggy,102865
+752,Fast Food,Pune,swiggy,82826
+753,Street Food,Pune,swiggy,88686
+754,Biryani,Pune,swiggy,151042
+755,Multi-Cuisine,Pune,swiggy,21550
+756,Korean,Pune,swiggy,20334
+757,Mughlai,Pune,swiggy,17027
+758,Bakery,Pune,swiggy,104441
+759,Mexican,Pune,swiggy,32361
+760,Street Food,Pune,swiggy,302932
+761,Thai,Pune,swiggy,73070
+762,North Indian,Pune,swiggy,96671
+763,Japanese,Pune,swiggy,64193
+764,Mediterranean,Pune,swiggy,258948
+765,Seafood,Pune,swiggy,307476
+766,Desserts,Pune,swiggy,177098
+767,Multi-Cuisine,Pune,swiggy,231486
+768,Thai,Pune,swiggy,59404
+769,Lebanese,Pune,swiggy,143217
+770,Desserts,Pune,swiggy,111079
+771,Lebanese,Pune,swiggy,39261
+772,Cafe,Pune,swiggy,156021
+773,Biryani,Pune,swiggy,161457
+774,Thai,Pune,swiggy,80701
+775,Bakery,Pune,swiggy,168176
+776,Mediterranean,Pune,swiggy,35970
+777,Korean,Pune,swiggy,72770
+778,Biryani,Pune,swiggy,121452
+779,Multi-Cuisine,Pune,swiggy,199972
+780,Mediterranean,Pune,swiggy,17747
+781,Cafe,Pune,swiggy,115861
+782,Fast Food,Pune,swiggy,156730
+783,Mughlai,Pune,swiggy,12855
+784,North Indian,Pune,swiggy,173221
+785,Pan-Asian,Pune,swiggy,83303
+786,Multi-Cuisine,Pune,swiggy,82671
+787,Bakery,Pune,swiggy,35635
+788,Fast Food,Pune,swiggy,201069
+789,Italian,Pune,swiggy,44448
+790,North Indian,Pune,swiggy,125845
+791,Mediterranean,Pune,swiggy,119077
+792,Fast Food,Pune,swiggy,180999
+793,Lebanese,Pune,swiggy,139025
+794,Multi-Cuisine,Pune,swiggy,147105
+795,Street Food,Pune,swiggy,13928
+796,Mexican,Pune,swiggy,75719
+797,Bakery,Pune,swiggy,66326
+798,Japanese,Pune,swiggy,218400
+799,Korean,Pune,swiggy,103566
+800,Multi-Cuisine,Pune,swiggy,151634
+801,Mughlai,Pune,swiggy,99322
+802,Multi-Cuisine,Pune,swiggy,144648
+803,Mexican,Pune,swiggy,27495
+804,Mexican,Pune,swiggy,211861
+805,Cafe,Pune,swiggy,198450
+806,Cafe,Pune,swiggy,128781
+807,Mediterranean,Pune,swiggy,21777
+808,Continental,Pune,swiggy,152138
+809,Desserts,Pune,swiggy,339943
+810,Chinese,Pune,swiggy,221138
+811,Italian,Pune,swiggy,241518
+812,Vietnamese,Pune,swiggy,102521
+813,Chinese,Pune,swiggy,94155
+814,Cafe,Pune,swiggy,332659
+815,Italian,Pune,swiggy,171642
+816,North Indian,Pune,swiggy,139491
+817,Seafood,Pune,swiggy,164462
+818,Mexican,Pune,swiggy,199820
+819,Fast Food,Pune,swiggy,41975
+820,South Indian,Pune,swiggy,24404
+821,Street Food,Pune,swiggy,50046
+822,Biryani,Pune,swiggy,143523
+823,Street Food,Pune,swiggy,38283
+824,Lebanese,Pune,swiggy,65072
+825,North Indian,Pune,swiggy,271948
+826,Cafe,Pune,swiggy,276774
+827,Japanese,Pune,swiggy,64545
+828,Biryani,Pune,swiggy,125718
+829,North Indian,Pune,swiggy,138583
+830,Cafe,Pune,swiggy,88286
+831,South Indian,Pune,swiggy,164462
+832,Mexican,Pune,swiggy,152418
+833,Cafe,Pune,swiggy,146611
+834,Multi-Cuisine,Pune,swiggy,161141
+835,Lebanese,Pune,swiggy,19006
+836,Mediterranean,Pune,swiggy,49421
+837,Street Food,Pune,swiggy,89049
+838,Bakery,Pune,swiggy,132268
+839,Seafood,Pune,swiggy,85529
+840,Lebanese,Pune,swiggy,108842
+841,Fast Food,Pune,swiggy,54031
+842,Japanese,Pune,swiggy,67960
+843,North Indian,Pune,swiggy,113734
+844,Korean,Pune,swiggy,251336
+845,Fast Food,Pune,swiggy,152215
+846,Continental,Pune,swiggy,200647
+847,Pan-Asian,Pune,swiggy,48490
+848,Mexican,Pune,swiggy,112455
+849,Thai,Pune,swiggy,98567
+850,Bakery,Pune,swiggy,226916
+851,Cafe,Pune,swiggy,36952
+852,Multi-Cuisine,Pune,swiggy,161499
+853,Pan-Asian,Pune,swiggy,143215
+854,North Indian,Pune,swiggy,66672
+855,Cafe,Pune,swiggy,124330
+856,Japanese,Pune,swiggy,241296
+857,Mughlai,Pune,swiggy,62713
+858,Bakery,Pune,swiggy,162434
+859,Pan-Asian,Pune,swiggy,16258
+860,Korean,Pune,swiggy,62139
+861,Continental,Pune,swiggy,25076
+862,Cafe,Pune,swiggy,74077
+863,Italian,Pune,swiggy,196148
+864,Chinese,Pune,swiggy,204349
+865,Bakery,Pune,swiggy,150101
+866,Continental,Pune,swiggy,29686
+867,Mughlai,Pune,swiggy,162668
+868,Continental,Pune,swiggy,182868
+869,Japanese,Pune,swiggy,137056
+870,Mughlai,Pune,swiggy,80131
+871,Mexican,Pune,swiggy,347283
+872,Vietnamese,Pune,swiggy,83371
+873,Seafood,Pune,swiggy,149617
+874,Korean,Pune,swiggy,21602
+875,North Indian,Pune,swiggy,49152
+876,Korean,Pune,swiggy,121425
+877,Continental,Pune,swiggy,45960
+878,Italian,Pune,swiggy,168891
+879,South Indian,Pune,swiggy,32652
+880,South Indian,Hyderabad,swiggy,93079
+881,Korean,Hyderabad,swiggy,154520
+882,Thai,Hyderabad,swiggy,119616
+883,Mexican,Hyderabad,swiggy,82562
+884,Desserts,Hyderabad,swiggy,215756
+885,North Indian,Hyderabad,swiggy,53403
+886,Vietnamese,Hyderabad,swiggy,181568
+887,South Indian,Hyderabad,swiggy,50868
+888,Mughlai,Hyderabad,swiggy,82295
+889,Chinese,Hyderabad,swiggy,109545
+890,Bakery,Hyderabad,swiggy,169460
+891,Mediterranean,Hyderabad,swiggy,59917
+892,Lebanese,Hyderabad,swiggy,40585
+893,Mediterranean,Hyderabad,swiggy,284616
+894,Mediterranean,Hyderabad,swiggy,54711
+895,Desserts,Hyderabad,swiggy,136598
+896,North Indian,Hyderabad,swiggy,53293
+897,South Indian,Hyderabad,swiggy,90863
+898,Biryani,Hyderabad,swiggy,25491
+899,Mexican,Hyderabad,swiggy,229193
+900,Street Food,Hyderabad,swiggy,31370
+901,North Indian,Hyderabad,swiggy,100427
+902,Street Food,Hyderabad,swiggy,51235
+903,South Indian,Hyderabad,swiggy,50691
+904,Italian,Hyderabad,swiggy,222631
+905,Continental,Hyderabad,swiggy,196056
+906,Chinese,Hyderabad,swiggy,157833
+907,South Indian,Hyderabad,swiggy,151071
+908,Lebanese,Hyderabad,swiggy,170273
+909,Multi-Cuisine,Hyderabad,swiggy,28571
+910,Bakery,Hyderabad,swiggy,86275
+911,Biryani,Hyderabad,swiggy,100871
+912,Biryani,Hyderabad,swiggy,160735
+913,Korean,Hyderabad,swiggy,187802
+914,Seafood,Hyderabad,swiggy,390100
+915,Bakery,Hyderabad,swiggy,131839
+916,Korean,Hyderabad,swiggy,306437
+917,Mughlai,Hyderabad,swiggy,271790
+918,Vietnamese,Hyderabad,swiggy,168205
+919,Biryani,Hyderabad,swiggy,47425
+920,Desserts,Hyderabad,swiggy,36903
+921,Thai,Hyderabad,swiggy,103477
+922,Cafe,Hyderabad,swiggy,64809
+923,Mexican,Hyderabad,swiggy,226527
+924,Korean,Hyderabad,swiggy,130543
+925,Vietnamese,Hyderabad,swiggy,86999
+926,Lebanese,Hyderabad,swiggy,195854
+927,Fast Food,Hyderabad,swiggy,116046
+928,Desserts,Hyderabad,swiggy,75044
+929,Korean,Hyderabad,swiggy,47120
+930,South Indian,Hyderabad,swiggy,57907
+931,Seafood,Hyderabad,swiggy,59210
+932,Chinese,Hyderabad,swiggy,211090
+933,Seafood,Hyderabad,swiggy,152097
+934,Italian,Hyderabad,swiggy,278905
+935,Multi-Cuisine,Hyderabad,swiggy,90956
+936,Desserts,Hyderabad,swiggy,195275
+937,Italian,Hyderabad,swiggy,29512
+938,Chinese,Hyderabad,swiggy,49715
+939,Korean,Hyderabad,swiggy,172420
+940,Biryani,Hyderabad,swiggy,59625
+941,Mexican,Hyderabad,swiggy,169506
+942,Multi-Cuisine,Hyderabad,swiggy,239454
+943,Street Food,Hyderabad,swiggy,207400
+944,Desserts,Hyderabad,swiggy,83612
+945,Desserts,Hyderabad,swiggy,98212
+946,Bakery,Hyderabad,swiggy,21650
+947,Korean,Hyderabad,swiggy,150039
+948,South Indian,Hyderabad,swiggy,74048
+949,Thai,Hyderabad,swiggy,196747
+950,Biryani,Hyderabad,swiggy,28961
+951,North Indian,Hyderabad,swiggy,73443
+952,Chinese,Hyderabad,swiggy,268685
+953,Mediterranean,Hyderabad,swiggy,288210
+954,Lebanese,Hyderabad,swiggy,195840
+955,Desserts,Hyderabad,swiggy,90419
+956,Pan-Asian,Hyderabad,swiggy,93464
+957,Desserts,Hyderabad,swiggy,190937
+958,Desserts,Hyderabad,swiggy,88548
+959,Vietnamese,Hyderabad,swiggy,60147
+960,Fast Food,Hyderabad,swiggy,92726
+961,Mexican,Hyderabad,swiggy,144878
+962,Mediterranean,Hyderabad,swiggy,32170
+963,Desserts,Hyderabad,swiggy,115064
+964,Mediterranean,Hyderabad,swiggy,14274
+965,Vietnamese,Hyderabad,swiggy,51278
+966,Korean,Hyderabad,swiggy,67988
+967,Korean,Hyderabad,swiggy,167310
+968,Mexican,Hyderabad,swiggy,99364
+969,Desserts,Hyderabad,swiggy,218178
+970,Street Food,Hyderabad,swiggy,44986
+971,North Indian,Hyderabad,swiggy,28030
+972,Chinese,Hyderabad,swiggy,80191
+973,Japanese,Hyderabad,swiggy,116112
+974,Japanese,Hyderabad,swiggy,135358
+975,South Indian,Hyderabad,swiggy,141563
+976,Lebanese,Hyderabad,swiggy,30096
+977,Biryani,Hyderabad,swiggy,195897
+978,Bakery,Hyderabad,swiggy,207034
+979,Mughlai,Hyderabad,swiggy,31465
+980,Fast Food,Hyderabad,swiggy,116987
+981,Mughlai,Hyderabad,swiggy,244582
+982,South Indian,Hyderabad,swiggy,149549
+983,Fast Food,Hyderabad,swiggy,298083
+984,Biryani,Hyderabad,swiggy,277375
+985,Mediterranean,Hyderabad,swiggy,151004
+986,Continental,Hyderabad,swiggy,210998
+987,Desserts,Hyderabad,swiggy,118752
+988,Mexican,Hyderabad,swiggy,174525
+989,Vietnamese,Hyderabad,swiggy,64888
+990,Cafe,Hyderabad,swiggy,87635
+991,Desserts,Hyderabad,swiggy,154670
+992,North Indian,Hyderabad,swiggy,256189
+993,North Indian,Hyderabad,swiggy,140025
+994,North Indian,Hyderabad,swiggy,35810
+995,Bakery,Hyderabad,swiggy,131302
+996,Street Food,Hyderabad,swiggy,107964
+997,Mexican,Hyderabad,swiggy,49427
+998,Japanese,Hyderabad,swiggy,244621
+999,Bakery,Hyderabad,swiggy,135549
+1000,Chinese,Hyderabad,swiggy,64144
+1001,Desserts,Hyderabad,swiggy,228296
+1002,Cafe,Hyderabad,swiggy,26134
+1003,Italian,Hyderabad,swiggy,30071
+1004,Mexican,Hyderabad,swiggy,217540
+1005,Mughlai,Hyderabad,swiggy,101486
+1006,Korean,Hyderabad,swiggy,171600
+1007,Thai,Hyderabad,swiggy,104178
+1008,Seafood,Hyderabad,swiggy,55315
+1009,South Indian,Hyderabad,swiggy,70174
+1010,Italian,Hyderabad,swiggy,68311
+1011,Bakery,Hyderabad,swiggy,26926
+1012,Street Food,Hyderabad,swiggy,78144
+1013,Chinese,Hyderabad,swiggy,159795
+1014,Thai,Hyderabad,swiggy,293214
+1015,Street Food,Hyderabad,swiggy,122184
+1016,Chinese,Chennai,swiggy,220649
+1017,Seafood,Chennai,swiggy,80856
+1018,Korean,Chennai,swiggy,329329
+1019,Seafood,Chennai,swiggy,95398
+1020,Continental,Chennai,swiggy,34620
+1021,Mexican,Chennai,swiggy,53489
+1022,Desserts,Chennai,swiggy,362109
+1023,Seafood,Chennai,swiggy,269372
+1024,Mughlai,Chennai,swiggy,307600
+1025,Street Food,Chennai,swiggy,60455
+1026,Korean,Chennai,swiggy,173722
+1027,Cafe,Chennai,swiggy,78443
+1028,Bakery,Chennai,swiggy,191757
+1029,Italian,Chennai,swiggy,39344
+1030,Italian,Chennai,swiggy,162855
+1031,Continental,Chennai,swiggy,94239
+1032,Italian,Chennai,swiggy,141642
+1033,Desserts,Chennai,swiggy,131930
+1034,Pan-Asian,Chennai,swiggy,139935
+1035,Mexican,Chennai,swiggy,22297
+1036,Street Food,Chennai,swiggy,33873
+1037,Pan-Asian,Chennai,swiggy,62425
+1038,Bakery,Chennai,swiggy,318625
+1039,Japanese,Chennai,swiggy,96090
+1040,Biryani,Chennai,swiggy,39534
+1041,Cafe,Chennai,swiggy,137606
+1042,Biryani,Chennai,swiggy,30718
+1043,Lebanese,Chennai,swiggy,79630
+1044,South Indian,Chennai,swiggy,130945
+1045,Thai,Chennai,swiggy,161329
+1046,Lebanese,Chennai,swiggy,78143
+1047,Mexican,Chennai,swiggy,81590
+1048,Chinese,Chennai,swiggy,172075
+1049,Continental,Chennai,swiggy,234841
+1050,Biryani,Chennai,swiggy,140799
+1051,Mediterranean,Chennai,swiggy,93181
+1052,Japanese,Chennai,swiggy,221158
+1053,Bakery,Chennai,swiggy,192021
+1054,Seafood,Chennai,swiggy,112837
+1055,Italian,Chennai,swiggy,110661
+1056,Vietnamese,Chennai,swiggy,57483
+1057,Seafood,Chennai,swiggy,173145
+1058,Pan-Asian,Chennai,swiggy,222226
+1059,Multi-Cuisine,Chennai,swiggy,112106
+1060,Italian,Chennai,swiggy,64289
+1061,Biryani,Chennai,swiggy,117362
+1062,Bakery,Chennai,swiggy,53768
+1063,Continental,Chennai,swiggy,211474
+1064,Desserts,Chennai,swiggy,84388
+1065,Street Food,Chennai,swiggy,156897
+1066,Multi-Cuisine,Chennai,swiggy,24224
+1067,Fast Food,Chennai,swiggy,57634
+1068,South Indian,Chennai,swiggy,46866
+1069,North Indian,Chennai,swiggy,83583
+1070,Fast Food,Chennai,swiggy,190641
+1071,North Indian,Chennai,swiggy,100503
+1072,Thai,Chennai,swiggy,108300
+1073,Pan-Asian,Chennai,swiggy,12969
+1074,Street Food,Chennai,swiggy,215369
+1075,Vietnamese,Chennai,swiggy,64370
+1076,Biryani,Chennai,swiggy,120912
+1077,Fast Food,Chennai,swiggy,97123
+1078,Cafe,Chennai,swiggy,142685
+1079,Mughlai,Chennai,swiggy,98618
+1080,Pan-Asian,Chennai,swiggy,261869
+1081,Seafood,Chennai,swiggy,162918
+1082,South Indian,Chennai,swiggy,42495
+1083,Mughlai,Chennai,swiggy,143211
+1084,Korean,Chennai,swiggy,67766
+1085,Pan-Asian,Chennai,swiggy,103058
+1086,North Indian,Chennai,swiggy,197776
+1087,Italian,Chennai,swiggy,212443
+1088,Bakery,Chennai,swiggy,51550
+1089,Chinese,Chennai,swiggy,186408
+1090,Thai,Chennai,swiggy,184325
+1091,Street Food,Chennai,swiggy,15633
+1092,Lebanese,Chennai,swiggy,89538
+1093,Bakery,Chennai,swiggy,87417
+1094,Italian,Chennai,swiggy,194733
+1095,Japanese,Chennai,swiggy,102296
+1096,South Indian,Chennai,swiggy,125996
+1097,Korean,Chennai,swiggy,214576
+1098,South Indian,Chennai,swiggy,111727
+1099,Vietnamese,Chennai,swiggy,254850
+1100,Pan-Asian,Chennai,swiggy,153890
+1101,Vietnamese,Chennai,swiggy,10545
+1102,Thai,Chennai,swiggy,23047
+1103,Desserts,Chennai,swiggy,337686
+1104,Chinese,Chennai,swiggy,96378
+1105,Seafood,Chennai,swiggy,121581
+1106,Biryani,Chennai,swiggy,37124
+1107,Mexican,Chennai,swiggy,145844
+1108,Street Food,Chennai,swiggy,208754
+1109,Chinese,Chennai,swiggy,168318
+1110,Italian,Chennai,swiggy,342147
+1111,Thai,Chennai,swiggy,279225
+1112,Mughlai,Chennai,swiggy,168574
+1113,Mexican,Chennai,swiggy,143638
+1114,Street Food,Chennai,swiggy,100474
+1115,Chinese,Chennai,swiggy,228659
+1116,Continental,Chennai,swiggy,236113
+1117,Seafood,Chennai,swiggy,45372
+1118,Seafood,Chennai,swiggy,75417
+1119,Vietnamese,Chennai,swiggy,32263
+1120,Italian,Chennai,swiggy,196924
+1121,Lebanese,Chennai,swiggy,23954
+1122,Italian,Chennai,swiggy,31846
+1123,Cafe,Chennai,swiggy,84496
+1124,Chinese,Chennai,swiggy,93279
+1125,Fast Food,Chennai,swiggy,308438
+1126,Biryani,Chennai,swiggy,83329
+1127,Lebanese,Chennai,swiggy,241397
+1128,Fast Food,Chennai,swiggy,144821
+1129,Cafe,Chennai,swiggy,179193
+1130,Mughlai,Chennai,swiggy,102161
+1131,Bakery,Chennai,swiggy,91608
+1132,Seafood,Chennai,swiggy,135702
+1133,Continental,Chennai,swiggy,74945
+1134,Mediterranean,Chennai,swiggy,183417
+1135,Thai,Chennai,swiggy,124923
+1136,Mediterranean,Chennai,swiggy,43704
+1137,Lebanese,Kolkata,swiggy,16879
+1138,Korean,Kolkata,swiggy,202440
+1139,Japanese,Kolkata,swiggy,36924
+1140,Mexican,Kolkata,swiggy,50685
+1141,Street Food,Kolkata,swiggy,45259
+1142,Fast Food,Kolkata,swiggy,137701
+1143,Multi-Cuisine,Kolkata,swiggy,134750
+1144,North Indian,Kolkata,swiggy,51873
+1145,Pan-Asian,Kolkata,swiggy,96225
+1146,Street Food,Kolkata,swiggy,72816
+1147,Cafe,Kolkata,swiggy,206642
+1148,Japanese,Kolkata,swiggy,118327
+1149,Thai,Kolkata,swiggy,147180
+1150,Mexican,Kolkata,swiggy,113851
+1151,Mediterranean,Kolkata,swiggy,82603
+1152,Cafe,Kolkata,swiggy,202855
+1153,Multi-Cuisine,Kolkata,swiggy,127090
+1154,Italian,Kolkata,swiggy,161182
+1155,Mughlai,Kolkata,swiggy,46588
+1156,Mediterranean,Kolkata,swiggy,159211
+1157,Mediterranean,Kolkata,swiggy,195274
+1158,Cafe,Kolkata,swiggy,79902
+1159,Street Food,Kolkata,swiggy,82127
+1160,Seafood,Kolkata,swiggy,54728
+1161,Street Food,Kolkata,swiggy,48031
+1162,Street Food,Kolkata,swiggy,67181
+1163,Pan-Asian,Kolkata,swiggy,113069
+1164,Mediterranean,Kolkata,swiggy,170192
+1165,Seafood,Kolkata,swiggy,172021
+1166,Bakery,Kolkata,swiggy,46632
+1167,Desserts,Kolkata,swiggy,36266
+1168,North Indian,Kolkata,swiggy,108174
+1169,Italian,Kolkata,swiggy,31016
+1170,Fast Food,Kolkata,swiggy,74879
+1171,Bakery,Kolkata,swiggy,151707
+1172,Multi-Cuisine,Kolkata,swiggy,55062
+1173,Continental,Kolkata,swiggy,121806
+1174,Street Food,Kolkata,swiggy,87211
+1175,Mediterranean,Kolkata,swiggy,85517
+1176,Seafood,Kolkata,swiggy,170996
+1177,Italian,Kolkata,swiggy,42835
+1178,Street Food,Kolkata,swiggy,207751
+1179,Mediterranean,Kolkata,swiggy,214182
+1180,Mediterranean,Kolkata,swiggy,23423
+1181,Bakery,Kolkata,swiggy,166429
+1182,Street Food,Kolkata,swiggy,68915
+1183,Mughlai,Kolkata,swiggy,87828
+1184,Desserts,Kolkata,swiggy,215574
+1185,South Indian,Kolkata,swiggy,166588
+1186,Desserts,Kolkata,swiggy,174211
+1187,Mexican,Kolkata,swiggy,76854
+1188,Mughlai,Kolkata,swiggy,215979
+1189,Desserts,Kolkata,swiggy,275886
+1190,Cafe,Kolkata,swiggy,93948
+1191,Seafood,Kolkata,swiggy,54558
+1192,Multi-Cuisine,Kolkata,swiggy,12047
+1193,Cafe,Kolkata,swiggy,220571
+1194,Mediterranean,Kolkata,swiggy,55188
+1195,Lebanese,Kolkata,swiggy,155866
+1196,Bakery,Kolkata,swiggy,224037
+1197,Seafood,Kolkata,swiggy,92337
+1198,Mediterranean,Kolkata,swiggy,149445
+1199,Vietnamese,Kolkata,swiggy,60188
+1200,Mediterranean,Kolkata,swiggy,104793
+1201,Mediterranean,Kolkata,swiggy,106178
+1202,Chinese,Kolkata,swiggy,165204
+1203,Korean,Kolkata,swiggy,23868
+1204,Chinese,Kolkata,swiggy,191932
+1205,Lebanese,Kolkata,swiggy,37877
+1206,Korean,Kolkata,swiggy,26510
+1207,Mexican,Kolkata,swiggy,136300
+1208,Bakery,Kolkata,swiggy,55326
+1209,Japanese,Kolkata,swiggy,55388
+1210,Cafe,Kolkata,swiggy,66114
+1211,Biryani,Kolkata,swiggy,175030
+1212,Multi-Cuisine,Kolkata,swiggy,58037
+1213,North Indian,Kolkata,swiggy,143018
+1214,Fast Food,Kolkata,swiggy,71590
+1215,Bakery,Kolkata,swiggy,162394
+1216,Lebanese,Kolkata,swiggy,349309
+1217,Street Food,Kolkata,swiggy,56129
+1218,Chinese,Kolkata,swiggy,236715
+1219,Japanese,Kolkata,swiggy,85238
+1220,Mexican,Kolkata,swiggy,67284
+1221,Biryani,Kolkata,swiggy,254467
+1222,Bakery,Kolkata,swiggy,43008
+1223,Fast Food,Kolkata,swiggy,30247
+1224,Mughlai,Kolkata,swiggy,32803
+1225,Pan-Asian,Kolkata,swiggy,141114
+1226,Mexican,Kolkata,swiggy,115742
+1227,Multi-Cuisine,Kolkata,swiggy,49354
+1228,Chinese,Kolkata,swiggy,210516
+1229,Fast Food,Kolkata,swiggy,101310
+1230,Korean,Kolkata,swiggy,14595
+1231,Vietnamese,Kolkata,swiggy,98468
+1232,Lebanese,Ahmedabad,swiggy,48470
+1233,Japanese,Ahmedabad,swiggy,101232
+1234,Biryani,Ahmedabad,swiggy,39613
+1235,North Indian,Ahmedabad,swiggy,227122
+1236,Bakery,Ahmedabad,swiggy,238822
+1237,Desserts,Ahmedabad,swiggy,66861
+1238,North Indian,Ahmedabad,swiggy,72661
+1239,Fast Food,Ahmedabad,swiggy,136879
+1240,Lebanese,Ahmedabad,swiggy,142726
+1241,Pan-Asian,Ahmedabad,swiggy,91265
+1242,Vietnamese,Ahmedabad,swiggy,23875
+1243,Pan-Asian,Ahmedabad,swiggy,89206
+1244,Fast Food,Ahmedabad,swiggy,71360
+1245,South Indian,Ahmedabad,swiggy,16867
+1246,Mediterranean,Ahmedabad,swiggy,226706
+1247,Mughlai,Ahmedabad,swiggy,181892
+1248,Seafood,Ahmedabad,swiggy,135877
+1249,Korean,Ahmedabad,swiggy,166743
+1250,Biryani,Ahmedabad,swiggy,134150
+1251,Street Food,Ahmedabad,swiggy,87009
+1252,Lebanese,Ahmedabad,swiggy,206414
+1253,Mexican,Ahmedabad,swiggy,146480
+1254,Korean,Ahmedabad,swiggy,215500
+1255,Street Food,Ahmedabad,swiggy,231873
+1256,Mediterranean,Ahmedabad,swiggy,75178
+1257,North Indian,Ahmedabad,swiggy,183439
+1258,Korean,Ahmedabad,swiggy,46512
+1259,South Indian,Ahmedabad,swiggy,93975
+1260,Seafood,Ahmedabad,swiggy,113195
+1261,Continental,Ahmedabad,swiggy,90106
+1262,Italian,Ahmedabad,swiggy,25085
+1263,Mediterranean,Ahmedabad,swiggy,98698
+1264,Fast Food,Ahmedabad,swiggy,240977
+1265,Cafe,Ahmedabad,swiggy,117675
+1266,Street Food,Ahmedabad,swiggy,147836
+1267,Mughlai,Ahmedabad,swiggy,110060
+1268,Japanese,Ahmedabad,swiggy,214967
+1269,Mediterranean,Ahmedabad,swiggy,108239
+1270,Cafe,Ahmedabad,swiggy,92097
+1271,Mediterranean,Ahmedabad,swiggy,106344
+1272,Japanese,Ahmedabad,swiggy,145317
+1273,Mediterranean,Ahmedabad,swiggy,230710
+1274,Lebanese,Ahmedabad,swiggy,108694
+1275,Chinese,Ahmedabad,swiggy,130261
+1276,Mughlai,Ahmedabad,swiggy,234899
+1277,Italian,Ahmedabad,swiggy,226436
+1278,Street Food,Ahmedabad,swiggy,125615
+1279,Japanese,Ahmedabad,swiggy,104125
+1280,Korean,Ahmedabad,swiggy,263177
+1281,Korean,Ahmedabad,swiggy,36039
+1282,South Indian,Ahmedabad,swiggy,217819
+1283,Chinese,Ahmedabad,swiggy,107329
+1284,Biryani,Ahmedabad,swiggy,78983
+1285,Bakery,Ahmedabad,swiggy,105294
+1286,Vietnamese,Ahmedabad,swiggy,76313
+1287,Vietnamese,Ahmedabad,swiggy,121171
+1288,Bakery,Ahmedabad,swiggy,58627
+1289,South Indian,Ahmedabad,swiggy,133786
+1290,Thai,Ahmedabad,swiggy,85538
+1291,Desserts,Ahmedabad,swiggy,75602
+1292,Biryani,Ahmedabad,swiggy,92391
+1293,Fast Food,Ahmedabad,swiggy,258294
+1294,South Indian,Ahmedabad,swiggy,106954
+1295,Mughlai,Ahmedabad,swiggy,84847
+1296,Vietnamese,Ahmedabad,swiggy,69131
+1297,South Indian,Ahmedabad,swiggy,126153
+1298,Desserts,Ahmedabad,swiggy,32029
+1299,Mexican,Ahmedabad,swiggy,22561
+1300,Multi-Cuisine,Ahmedabad,swiggy,103754
+1301,Italian,Ahmedabad,swiggy,148101
+1302,North Indian,Ahmedabad,swiggy,179205
+1303,Chinese,Ahmedabad,swiggy,52421
+1304,Mexican,Ahmedabad,swiggy,41504
+1305,Pan-Asian,Ahmedabad,swiggy,160736
+1306,Fast Food,Ahmedabad,swiggy,194339
+1307,Cafe,Ahmedabad,swiggy,136142
+1308,Italian,Ahmedabad,swiggy,277958
+1309,Mexican,Ahmedabad,swiggy,32280
+1310,South Indian,Ahmedabad,swiggy,227484
+1311,Mexican,Ahmedabad,swiggy,125316
+1312,Multi-Cuisine,Ahmedabad,swiggy,43165
+1313,Korean,Ahmedabad,swiggy,74833
+1314,Seafood,Ahmedabad,swiggy,157143
+1315,Seafood,Ahmedabad,swiggy,100510
+1316,South Indian,Ahmedabad,swiggy,176032
+1317,Continental,Ahmedabad,swiggy,243846
+1318,Mediterranean,Ahmedabad,swiggy,23249
+1319,Street Food,Ahmedabad,swiggy,171351
+1320,Mexican,Ahmedabad,swiggy,222406
+1321,Korean,Ahmedabad,swiggy,100993
+1322,Italian,Ahmedabad,swiggy,173174
+1323,Bakery,Ahmedabad,swiggy,191254
+1324,Biryani,Ahmedabad,swiggy,164692
+1325,Biryani,Ahmedabad,swiggy,83124
+1326,Korean,Ahmedabad,swiggy,87623
+1327,Biryani,Ahmedabad,swiggy,93444
+1328,Biryani,Ahmedabad,swiggy,38201
+1329,Chinese,Ahmedabad,swiggy,75992
+1330,Chinese,Ahmedabad,swiggy,218130
+1331,Bakery,Jaipur,swiggy,116844
+1332,Chinese,Jaipur,swiggy,150528
+1333,Biryani,Jaipur,swiggy,65736
+1334,Desserts,Jaipur,swiggy,177933
+1335,Thai,Jaipur,swiggy,34796
+1336,Continental,Jaipur,swiggy,58431
+1337,Biryani,Jaipur,swiggy,33320
+1338,Desserts,Jaipur,swiggy,155967
+1339,Continental,Jaipur,swiggy,60194
+1340,Thai,Jaipur,swiggy,204917
+1341,Continental,Jaipur,swiggy,41751
+1342,Continental,Jaipur,swiggy,27389
+1343,Cafe,Jaipur,swiggy,22518
+1344,Chinese,Jaipur,swiggy,199438
+1345,Multi-Cuisine,Jaipur,swiggy,32648
+1346,Thai,Jaipur,swiggy,65444
+1347,Mexican,Jaipur,swiggy,63757
+1348,Korean,Jaipur,swiggy,52997
+1349,Biryani,Jaipur,swiggy,183430
+1350,Multi-Cuisine,Jaipur,swiggy,94378
+1351,Italian,Jaipur,swiggy,114811
+1352,Desserts,Jaipur,swiggy,161968
+1353,Seafood,Jaipur,swiggy,46920
+1354,Korean,Jaipur,swiggy,82020
+1355,Street Food,Jaipur,swiggy,32764
+1356,North Indian,Jaipur,swiggy,121839
+1357,Multi-Cuisine,Jaipur,swiggy,26063
+1358,North Indian,Jaipur,swiggy,184429
+1359,Mughlai,Jaipur,swiggy,25952
+1360,Korean,Jaipur,swiggy,50252
+1361,Bakery,Jaipur,swiggy,108773
+1362,Chinese,Jaipur,swiggy,87018
+1363,Multi-Cuisine,Jaipur,swiggy,218025
+1364,Cafe,Jaipur,swiggy,24239
+1365,North Indian,Jaipur,swiggy,248732
+1366,Thai,Jaipur,swiggy,169786
+1367,Bakery,Jaipur,swiggy,85059
+1368,Seafood,Jaipur,swiggy,43568
+1369,Desserts,Jaipur,swiggy,159311
+1370,Fast Food,Jaipur,swiggy,20662
+1371,South Indian,Jaipur,swiggy,159658
+1372,Mediterranean,Jaipur,swiggy,283086
+1373,Cafe,Jaipur,swiggy,213504
+1374,Fast Food,Jaipur,swiggy,168896
+1375,Mediterranean,Jaipur,swiggy,103529
+1376,Thai,Jaipur,swiggy,112699
+1377,Mediterranean,Jaipur,swiggy,23803
+1378,Multi-Cuisine,Jaipur,swiggy,230300
+1379,Fast Food,Jaipur,swiggy,19870
+1380,Lebanese,Jaipur,swiggy,278753
+1381,Thai,Jaipur,swiggy,112225
+1382,Desserts,Jaipur,swiggy,119335
+1383,Pan-Asian,Jaipur,swiggy,112945
+1384,Japanese,Jaipur,swiggy,190996
+1385,Seafood,Jaipur,swiggy,117593
+1386,Thai,Jaipur,swiggy,20678
+1387,Italian,Jaipur,swiggy,214398
+1388,Seafood,Jaipur,swiggy,160941
+1389,Seafood,Jaipur,swiggy,157618
+1390,Seafood,Jaipur,swiggy,203323
+1391,South Indian,Jaipur,swiggy,22021
+1392,Mediterranean,Jaipur,swiggy,239052
+1393,Fast Food,Jaipur,swiggy,166030
+1394,Biryani,Jaipur,swiggy,140753
+1395,Fast Food,Jaipur,swiggy,125083
+1396,South Indian,Jaipur,swiggy,84736
+1397,Mexican,Jaipur,swiggy,240782
+1398,South Indian,Jaipur,swiggy,20561
+1399,Mughlai,Jaipur,swiggy,85562
+1400,South Indian,Jaipur,swiggy,54522
+1401,Street Food,Jaipur,swiggy,55994
+1402,Street Food,Jaipur,swiggy,69258
+1403,Korean,Jaipur,swiggy,117599
+1404,Pan-Asian,Jaipur,swiggy,334741
+1405,Japanese,Jaipur,swiggy,63586
+1406,Thai,Jaipur,swiggy,17635
+1407,Street Food,Jaipur,swiggy,104235
+1408,Desserts,Lucknow,swiggy,60249
+1409,South Indian,Lucknow,swiggy,38998
+1410,Korean,Lucknow,swiggy,36240
+1411,Desserts,Lucknow,swiggy,77102
+1412,South Indian,Lucknow,swiggy,86373
+1413,Mediterranean,Lucknow,swiggy,113339
+1414,Pan-Asian,Lucknow,swiggy,26490
+1415,Mexican,Lucknow,swiggy,49402
+1416,Cafe,Lucknow,swiggy,348820
+1417,Japanese,Lucknow,swiggy,392901
+1418,Lebanese,Lucknow,swiggy,164302
+1419,Fast Food,Lucknow,swiggy,122623
+1420,North Indian,Lucknow,swiggy,19330
+1421,Lebanese,Lucknow,swiggy,130964
+1422,Vietnamese,Lucknow,swiggy,76730
+1423,Vietnamese,Lucknow,swiggy,178709
+1424,Korean,Lucknow,swiggy,196063
+1425,South Indian,Lucknow,swiggy,58484
+1426,Mediterranean,Lucknow,swiggy,110147
+1427,Bakery,Lucknow,swiggy,275351
+1428,Bakery,Lucknow,swiggy,151668
+1429,Japanese,Lucknow,swiggy,132267
+1430,Mexican,Lucknow,swiggy,26497
+1431,Italian,Lucknow,swiggy,60314
+1432,Chinese,Lucknow,swiggy,95712
+1433,Biryani,Lucknow,swiggy,24220
+1434,Thai,Lucknow,swiggy,198715
+1435,Mexican,Lucknow,swiggy,48483
+1436,South Indian,Lucknow,swiggy,154261
+1437,Pan-Asian,Lucknow,swiggy,115563
+1438,Chinese,Lucknow,swiggy,81076
+1439,Italian,Lucknow,swiggy,74289
+1440,North Indian,Lucknow,swiggy,42538
+1441,Multi-Cuisine,Lucknow,swiggy,262218
+1442,North Indian,Lucknow,swiggy,287295
+1443,Fast Food,Lucknow,swiggy,243001
+1444,Fast Food,Lucknow,swiggy,256015
+1445,Mexican,Lucknow,swiggy,158974
+1446,Mexican,Lucknow,swiggy,74613
+1447,South Indian,Lucknow,swiggy,220905
+1448,Mughlai,Lucknow,swiggy,38515
+1449,South Indian,Lucknow,swiggy,79862
+1450,Multi-Cuisine,Lucknow,swiggy,162467
+1451,Mughlai,Lucknow,swiggy,52142
+1452,Bakery,Lucknow,swiggy,148211
+1453,Mexican,Lucknow,swiggy,15566
+1454,Seafood,Lucknow,swiggy,112439
+1455,Biryani,Lucknow,swiggy,87172
+1456,Chinese,Lucknow,swiggy,76752
+1457,Fast Food,Lucknow,swiggy,365092
+1458,Chinese,Lucknow,swiggy,228193
+1459,Continental,Lucknow,swiggy,352934
+1460,North Indian,Lucknow,swiggy,118658
+1461,Pan-Asian,Lucknow,swiggy,85101
+1462,Multi-Cuisine,Lucknow,swiggy,62794
+1463,Chinese,Lucknow,swiggy,194704
+1464,Italian,Mumbai,zomato,98108
+1465,Mughlai,Mumbai,zomato,165940
+1466,Mediterranean,Mumbai,zomato,142984
+1467,Desserts,Mumbai,zomato,151368
+1468,Mexican,Mumbai,zomato,176854
+1469,Thai,Mumbai,zomato,55375
+1470,Mexican,Mumbai,zomato,105506
+1471,Chinese,Mumbai,zomato,211684
+1472,Cafe,Mumbai,zomato,136368
+1473,Multi-Cuisine,Mumbai,zomato,96047
+1474,Pan-Asian,Mumbai,zomato,434268
+1475,Seafood,Mumbai,zomato,247695
+1476,Japanese,Mumbai,zomato,21032
+1477,Mexican,Mumbai,zomato,146294
+1478,Multi-Cuisine,Mumbai,zomato,120284
+1479,Japanese,Mumbai,zomato,191446
+1480,Continental,Mumbai,zomato,162537
+1481,Lebanese,Mumbai,zomato,175573
+1482,North Indian,Mumbai,zomato,96710
+1483,Thai,Mumbai,zomato,258376
+1484,Japanese,Mumbai,zomato,154094
+1485,North Indian,Mumbai,zomato,114141
+1486,Pan-Asian,Mumbai,zomato,133110
+1487,Lebanese,Mumbai,zomato,39704
+1488,Pan-Asian,Mumbai,zomato,49748
+1489,Mexican,Mumbai,zomato,209810
+1490,South Indian,Mumbai,zomato,34184
+1491,Lebanese,Mumbai,zomato,135297
+1492,Lebanese,Mumbai,zomato,29286
+1493,Multi-Cuisine,Mumbai,zomato,32721
+1494,Korean,Mumbai,zomato,85180
+1495,Continental,Mumbai,zomato,63597
+1496,Japanese,Mumbai,zomato,55575
+1497,Bakery,Mumbai,zomato,75541
+1498,Mughlai,Mumbai,zomato,164780
+1499,Bakery,Mumbai,zomato,163558
+1500,Korean,Mumbai,zomato,37935
+1501,Seafood,Mumbai,zomato,113154
+1502,Chinese,Mumbai,zomato,109422
+1503,Street Food,Mumbai,zomato,340563
+1504,Biryani,Mumbai,zomato,89580
+1505,Pan-Asian,Mumbai,zomato,124184
+1506,Lebanese,Mumbai,zomato,74380
+1507,Continental,Mumbai,zomato,102300
+1508,Italian,Mumbai,zomato,157958
+1509,Mediterranean,Mumbai,zomato,132168
+1510,Mediterranean,Mumbai,zomato,43664
+1511,Bakery,Mumbai,zomato,125815
+1512,Biryani,Mumbai,zomato,22937
+1513,Seafood,Mumbai,zomato,183548
+1514,Fast Food,Mumbai,zomato,16326
+1515,Street Food,Mumbai,zomato,187292
+1516,Mediterranean,Mumbai,zomato,39055
+1517,Fast Food,Mumbai,zomato,294016
+1518,South Indian,Mumbai,zomato,193319
+1519,Korean,Mumbai,zomato,150854
+1520,Street Food,Mumbai,zomato,457480
+1521,Cafe,Mumbai,zomato,29785
+1522,Cafe,Mumbai,zomato,24651
+1523,Thai,Mumbai,zomato,87553
+1524,Continental,Mumbai,zomato,74908
+1525,Pan-Asian,Mumbai,zomato,185228
+1526,Thai,Mumbai,zomato,167855
+1527,Vietnamese,Mumbai,zomato,36210
+1528,Chinese,Mumbai,zomato,129578
+1529,South Indian,Mumbai,zomato,36784
+1530,Seafood,Mumbai,zomato,123504
+1531,South Indian,Mumbai,zomato,148174
+1532,Street Food,Mumbai,zomato,136659
+1533,Bakery,Mumbai,zomato,21920
+1534,Mediterranean,Mumbai,zomato,190564
+1535,Pan-Asian,Mumbai,zomato,35630
+1536,Bakery,Mumbai,zomato,66589
+1537,Cafe,Mumbai,zomato,161904
+1538,Cafe,Mumbai,zomato,66441
+1539,South Indian,Mumbai,zomato,84020
+1540,Biryani,Mumbai,zomato,88757
+1541,Mughlai,Mumbai,zomato,257967
+1542,Mughlai,Mumbai,zomato,57200
+1543,Mediterranean,Mumbai,zomato,41103
+1544,Street Food,Mumbai,zomato,210690
+1545,Bakery,Mumbai,zomato,76792
+1546,Mughlai,Mumbai,zomato,86389
+1547,Italian,Mumbai,zomato,133075
+1548,Chinese,Mumbai,zomato,136884
+1549,Vietnamese,Mumbai,zomato,44942
+1550,Pan-Asian,Mumbai,zomato,98378
+1551,Japanese,Mumbai,zomato,40828
+1552,Street Food,Mumbai,zomato,60954
+1553,Continental,Mumbai,zomato,66006
+1554,Continental,Mumbai,zomato,46402
+1555,Mediterranean,Mumbai,zomato,232637
+1556,Thai,Mumbai,zomato,96158
+1557,Japanese,Mumbai,zomato,184878
+1558,South Indian,Mumbai,zomato,147322
+1559,Fast Food,Mumbai,zomato,231404
+1560,Pan-Asian,Mumbai,zomato,279209
+1561,Street Food,Mumbai,zomato,149432
+1562,Korean,Mumbai,zomato,54066
+1563,Lebanese,Mumbai,zomato,203682
+1564,Seafood,Mumbai,zomato,214451
+1565,Cafe,Mumbai,zomato,129198
+1566,Mexican,Mumbai,zomato,160520
+1567,Continental,Mumbai,zomato,158780
+1568,Cafe,Mumbai,zomato,87120
+1569,Fast Food,Mumbai,zomato,39655
+1570,Mexican,Mumbai,zomato,295932
+1571,Multi-Cuisine,Mumbai,zomato,50736
+1572,Multi-Cuisine,Mumbai,zomato,55123
+1573,Chinese,Mumbai,zomato,180508
+1574,Desserts,Mumbai,zomato,172776
+1575,Continental,Mumbai,zomato,88368
+1576,Chinese,Mumbai,zomato,154381
+1577,Italian,Mumbai,zomato,123049
+1578,Cafe,Mumbai,zomato,80387
+1579,Street Food,Mumbai,zomato,140889
+1580,Chinese,Mumbai,zomato,195432
+1581,Korean,Mumbai,zomato,157668
+1582,Seafood,Mumbai,zomato,44023
+1583,Lebanese,Mumbai,zomato,134493
+1584,Desserts,Mumbai,zomato,184896
+1585,Biryani,Mumbai,zomato,134035
+1586,Mediterranean,Mumbai,zomato,181054
+1587,Korean,Mumbai,zomato,124020
+1588,Continental,Mumbai,zomato,196266
+1589,South Indian,Mumbai,zomato,150809
+1590,Korean,Mumbai,zomato,82966
+1591,Continental,Mumbai,zomato,120052
+1592,Desserts,Mumbai,zomato,264634
+1593,Vietnamese,Mumbai,zomato,37974
+1594,Continental,Mumbai,zomato,142914
+1595,Bakery,Mumbai,zomato,65349
+1596,Biryani,Mumbai,zomato,26177
+1597,Multi-Cuisine,Mumbai,zomato,144258
+1598,Bakery,Mumbai,zomato,72433
+1599,Desserts,Mumbai,zomato,90181
+1600,Korean,Mumbai,zomato,44713
+1601,North Indian,Mumbai,zomato,199785
+1602,Biryani,Mumbai,zomato,164407
+1603,Seafood,Mumbai,zomato,102042
+1604,Continental,Mumbai,zomato,137804
+1605,Multi-Cuisine,Mumbai,zomato,289945
+1606,North Indian,Mumbai,zomato,192918
+1607,Mexican,Mumbai,zomato,233728
+1608,Japanese,Mumbai,zomato,127853
+1609,Seafood,Mumbai,zomato,129526
+1610,Multi-Cuisine,Mumbai,zomato,72555
+1611,Street Food,Mumbai,zomato,123222
+1612,Cafe,Mumbai,zomato,164883
+1613,Korean,Mumbai,zomato,88734
+1614,Seafood,Mumbai,zomato,44407
+1615,Thai,Mumbai,zomato,186674
+1616,South Indian,Mumbai,zomato,120134
+1617,Korean,Mumbai,zomato,282341
+1618,Italian,Mumbai,zomato,138566
+1619,Thai,Mumbai,zomato,121999
+1620,Korean,Mumbai,zomato,62920
+1621,Mughlai,Mumbai,zomato,197200
+1622,Korean,Mumbai,zomato,205281
+1623,North Indian,Mumbai,zomato,166514
+1624,Lebanese,Mumbai,zomato,91261
+1625,South Indian,Mumbai,zomato,126387
+1626,Seafood,Mumbai,zomato,26074
+1627,Bakery,Mumbai,zomato,82198
+1628,Thai,Mumbai,zomato,182737
+1629,Chinese,Mumbai,zomato,197103
+1630,Pan-Asian,Mumbai,zomato,218872
+1631,Cafe,Mumbai,zomato,100808
+1632,Cafe,Mumbai,zomato,82667
+1633,Japanese,Mumbai,zomato,268782
+1634,Street Food,Mumbai,zomato,310551
+1635,Lebanese,Mumbai,zomato,59823
+1636,Mediterranean,Mumbai,zomato,165419
+1637,Street Food,Mumbai,zomato,181459
+1638,Mediterranean,Mumbai,zomato,204850
+1639,Multi-Cuisine,Mumbai,zomato,20404
+1640,Lebanese,Mumbai,zomato,184449
+1641,Multi-Cuisine,Mumbai,zomato,141700
+1642,Mediterranean,Mumbai,zomato,178685
+1643,Multi-Cuisine,Mumbai,zomato,163042
+1644,Chinese,Mumbai,zomato,36972
+1645,Biryani,Mumbai,zomato,30792
+1646,Biryani,Mumbai,zomato,243745
+1647,Street Food,Mumbai,zomato,78467
+1648,Continental,Mumbai,zomato,98103
+1649,Korean,Mumbai,zomato,95294
+1650,Japanese,Mumbai,zomato,32381
+1651,Mughlai,Mumbai,zomato,59331
+1652,Street Food,Mumbai,zomato,347720
+1653,Japanese,Mumbai,zomato,46765
+1654,Mediterranean,Mumbai,zomato,294615
+1655,Desserts,Mumbai,zomato,133707
+1656,North Indian,Mumbai,zomato,86453
+1657,Seafood,Mumbai,zomato,184552
+1658,Italian,Mumbai,zomato,19799
+1659,South Indian,Mumbai,zomato,120942
+1660,Japanese,Mumbai,zomato,49630
+1661,Mexican,Mumbai,zomato,32432
+1662,Lebanese,Mumbai,zomato,244995
+1663,Multi-Cuisine,Mumbai,zomato,53430
+1664,Desserts,Mumbai,zomato,35225
+1665,Continental,Mumbai,zomato,340360
+1666,Lebanese,Mumbai,zomato,126091
+1667,Biryani,Mumbai,zomato,193108
+1668,Cafe,Mumbai,zomato,91770
+1669,Cafe,Mumbai,zomato,216809
+1670,North Indian,Mumbai,zomato,87352
+1671,North Indian,Mumbai,zomato,50412
+1672,North Indian,Mumbai,zomato,161951
+1673,Lebanese,Mumbai,zomato,93651
+1674,Mediterranean,Mumbai,zomato,279855
+1675,Italian,Mumbai,zomato,96256
+1676,Fast Food,Mumbai,zomato,71394
+1677,Lebanese,Mumbai,zomato,88490
+1678,Cafe,Mumbai,zomato,62392
+1679,Italian,Mumbai,zomato,123824
+1680,Seafood,Mumbai,zomato,235174
+1681,Vietnamese,Mumbai,zomato,113388
+1682,Italian,Mumbai,zomato,139433
+1683,Multi-Cuisine,Mumbai,zomato,242102
+1684,Street Food,Mumbai,zomato,73800
+1685,Korean,Mumbai,zomato,82950
+1686,Biryani,Mumbai,zomato,151621
+1687,Italian,Mumbai,zomato,94604
+1688,Bakery,Mumbai,zomato,193758
+1689,South Indian,Mumbai,zomato,37073
+1690,Pan-Asian,Mumbai,zomato,105216
+1691,Biryani,Mumbai,zomato,145493
+1692,Japanese,Mumbai,zomato,28599
+1693,Bakery,Mumbai,zomato,150297
+1694,North Indian,Mumbai,zomato,378245
+1695,Biryani,Mumbai,zomato,21838
+1696,Pan-Asian,Mumbai,zomato,43109
+1697,Pan-Asian,Mumbai,zomato,244176
+1698,Korean,Mumbai,zomato,73471
+1699,Pan-Asian,Mumbai,zomato,41050
+1700,Thai,Mumbai,zomato,193715
+1701,Desserts,Mumbai,zomato,84871
+1702,Japanese,Mumbai,zomato,32164
+1703,Lebanese,Mumbai,zomato,75378
+1704,Chinese,Mumbai,zomato,334681
+1705,Multi-Cuisine,Mumbai,zomato,163194
+1706,Pan-Asian,Mumbai,zomato,103681
+1707,Bakery,Mumbai,zomato,220114
+1708,Fast Food,Mumbai,zomato,153413
+1709,Italian,Mumbai,zomato,61225
+1710,Mughlai,Mumbai,zomato,65198
+1711,Mediterranean,Mumbai,zomato,63371
+1712,Multi-Cuisine,Mumbai,zomato,131327
+1713,Thai,Mumbai,zomato,149334
+1714,Korean,Mumbai,zomato,219445
+1715,Italian,Mumbai,zomato,91756
+1716,North Indian,Mumbai,zomato,121012
+1717,Street Food,Mumbai,zomato,291797
+1718,Mughlai,Mumbai,zomato,87024
+1719,Thai,Mumbai,zomato,13761
+1720,Biryani,Mumbai,zomato,37615
+1721,North Indian,Mumbai,zomato,132290
+1722,Multi-Cuisine,Mumbai,zomato,75922
+1723,Thai,Bangalore,zomato,147313
+1724,Korean,Bangalore,zomato,147034
+1725,Mediterranean,Bangalore,zomato,47660
+1726,Desserts,Bangalore,zomato,59249
+1727,Korean,Bangalore,zomato,288443
+1728,Italian,Bangalore,zomato,118311
+1729,Thai,Bangalore,zomato,40839
+1730,Korean,Bangalore,zomato,223286
+1731,Multi-Cuisine,Bangalore,zomato,30682
+1732,Fast Food,Bangalore,zomato,129010
+1733,Biryani,Bangalore,zomato,179572
+1734,Korean,Bangalore,zomato,54542
+1735,Bakery,Bangalore,zomato,71949
+1736,Japanese,Bangalore,zomato,198872
+1737,Continental,Bangalore,zomato,176015
+1738,Street Food,Bangalore,zomato,33243
+1739,Korean,Bangalore,zomato,274317
+1740,Biryani,Bangalore,zomato,184151
+1741,South Indian,Bangalore,zomato,164547
+1742,Vietnamese,Bangalore,zomato,79326
+1743,Chinese,Bangalore,zomato,123516
+1744,Mughlai,Bangalore,zomato,181540
+1745,Mexican,Bangalore,zomato,38541
+1746,Lebanese,Bangalore,zomato,51741
+1747,Biryani,Bangalore,zomato,117398
+1748,Italian,Bangalore,zomato,87486
+1749,Mughlai,Bangalore,zomato,41384
+1750,Continental,Bangalore,zomato,349554
+1751,Fast Food,Bangalore,zomato,47837
+1752,Mediterranean,Bangalore,zomato,98109
+1753,Biryani,Bangalore,zomato,155053
+1754,Bakery,Bangalore,zomato,305633
+1755,Multi-Cuisine,Bangalore,zomato,307948
+1756,Italian,Bangalore,zomato,142197
+1757,North Indian,Bangalore,zomato,146074
+1758,Mughlai,Bangalore,zomato,111043
+1759,Mughlai,Bangalore,zomato,14520
+1760,Mexican,Bangalore,zomato,136650
+1761,Desserts,Bangalore,zomato,11483
+1762,Italian,Bangalore,zomato,164092
+1763,North Indian,Bangalore,zomato,356152
+1764,Seafood,Bangalore,zomato,174310
+1765,Thai,Bangalore,zomato,59331
+1766,Multi-Cuisine,Bangalore,zomato,232187
+1767,Biryani,Bangalore,zomato,167160
+1768,Street Food,Bangalore,zomato,291458
+1769,Bakery,Bangalore,zomato,144478
+1770,Pan-Asian,Bangalore,zomato,223768
+1771,Continental,Bangalore,zomato,292619
+1772,Street Food,Bangalore,zomato,180566
+1773,Thai,Bangalore,zomato,127622
+1774,Mexican,Bangalore,zomato,295992
+1775,Seafood,Bangalore,zomato,81460
+1776,Mediterranean,Bangalore,zomato,238646
+1777,North Indian,Bangalore,zomato,257042
+1778,North Indian,Bangalore,zomato,200200
+1779,Mughlai,Bangalore,zomato,79701
+1780,Mughlai,Bangalore,zomato,51218
+1781,Korean,Bangalore,zomato,90152
+1782,Bakery,Bangalore,zomato,91672
+1783,Continental,Bangalore,zomato,40644
+1784,Mexican,Bangalore,zomato,195102
+1785,North Indian,Bangalore,zomato,110569
+1786,Mughlai,Bangalore,zomato,15566
+1787,Multi-Cuisine,Bangalore,zomato,66563
+1788,Mexican,Bangalore,zomato,207748
+1789,Mughlai,Bangalore,zomato,33038
+1790,Multi-Cuisine,Bangalore,zomato,258459
+1791,Italian,Bangalore,zomato,135220
+1792,Chinese,Bangalore,zomato,21082
+1793,Mexican,Bangalore,zomato,112449
+1794,Mediterranean,Bangalore,zomato,121315
+1795,Cafe,Bangalore,zomato,58391
+1796,Korean,Bangalore,zomato,268612
+1797,Korean,Bangalore,zomato,60282
+1798,Thai,Bangalore,zomato,109527
+1799,Street Food,Bangalore,zomato,133662
+1800,Biryani,Bangalore,zomato,76580
+1801,South Indian,Bangalore,zomato,171771
+1802,Mediterranean,Bangalore,zomato,32317
+1803,Thai,Bangalore,zomato,126233
+1804,Multi-Cuisine,Bangalore,zomato,73018
+1805,Mughlai,Bangalore,zomato,26749
+1806,Lebanese,Bangalore,zomato,154693
+1807,Fast Food,Bangalore,zomato,76842
+1808,Biryani,Bangalore,zomato,232220
+1809,Italian,Bangalore,zomato,139431
+1810,Seafood,Bangalore,zomato,35520
+1811,Continental,Bangalore,zomato,118672
+1812,Pan-Asian,Bangalore,zomato,80301
+1813,Chinese,Bangalore,zomato,69198
+1814,Lebanese,Bangalore,zomato,59707
+1815,Italian,Bangalore,zomato,175351
+1816,Japanese,Bangalore,zomato,245648
+1817,Pan-Asian,Bangalore,zomato,210878
+1818,Seafood,Bangalore,zomato,84276
+1819,Japanese,Bangalore,zomato,238355
+1820,Mughlai,Bangalore,zomato,149588
+1821,South Indian,Bangalore,zomato,237022
+1822,Lebanese,Bangalore,zomato,100878
+1823,Mediterranean,Bangalore,zomato,156585
+1824,Cafe,Bangalore,zomato,139515
+1825,Pan-Asian,Bangalore,zomato,99588
+1826,Japanese,Bangalore,zomato,162379
+1827,Desserts,Bangalore,zomato,17003
+1828,Japanese,Bangalore,zomato,127700
+1829,Korean,Bangalore,zomato,147936
+1830,Mughlai,Bangalore,zomato,228882
+1831,Fast Food,Bangalore,zomato,136067
+1832,Korean,Bangalore,zomato,89218
+1833,Chinese,Bangalore,zomato,259233
+1834,Lebanese,Bangalore,zomato,107485
+1835,Desserts,Bangalore,zomato,80597
+1836,Bakery,Bangalore,zomato,168168
+1837,Pan-Asian,Bangalore,zomato,42636
+1838,Multi-Cuisine,Bangalore,zomato,162595
+1839,Cafe,Bangalore,zomato,169311
+1840,Bakery,Bangalore,zomato,282574
+1841,Multi-Cuisine,Bangalore,zomato,142848
+1842,Multi-Cuisine,Bangalore,zomato,69387
+1843,Vietnamese,Bangalore,zomato,234696
+1844,Seafood,Bangalore,zomato,55242
+1845,Japanese,Bangalore,zomato,165811
+1846,Desserts,Bangalore,zomato,93927
+1847,Continental,Bangalore,zomato,38641
+1848,Cafe,Bangalore,zomato,268746
+1849,Mexican,Bangalore,zomato,170208
+1850,Biryani,Bangalore,zomato,140572
+1851,North Indian,Bangalore,zomato,198247
+1852,South Indian,Bangalore,zomato,317152
+1853,Mughlai,Bangalore,zomato,213198
+1854,Korean,Bangalore,zomato,197111
+1855,Thai,Bangalore,zomato,44419
+1856,Japanese,Bangalore,zomato,95522
+1857,Fast Food,Bangalore,zomato,69945
+1858,Desserts,Bangalore,zomato,183249
+1859,Fast Food,Bangalore,zomato,43767
+1860,Cafe,Bangalore,zomato,166002
+1861,Biryani,Bangalore,zomato,108855
+1862,Pan-Asian,Bangalore,zomato,253769
+1863,Fast Food,Bangalore,zomato,40396
+1864,Fast Food,Bangalore,zomato,79073
+1865,Bakery,Bangalore,zomato,25244
+1866,Chinese,Bangalore,zomato,170052
+1867,Vietnamese,Bangalore,zomato,169749
+1868,Vietnamese,Bangalore,zomato,130915
+1869,Seafood,Bangalore,zomato,35332
+1870,South Indian,Bangalore,zomato,160957
+1871,Vietnamese,Bangalore,zomato,137475
+1872,Mexican,Bangalore,zomato,82180
+1873,Multi-Cuisine,Bangalore,zomato,209339
+1874,Mughlai,Bangalore,zomato,58789
+1875,Pan-Asian,Bangalore,zomato,20862
+1876,Japanese,Bangalore,zomato,253671
+1877,Multi-Cuisine,Bangalore,zomato,117303
+1878,Vietnamese,Bangalore,zomato,21149
+1879,Fast Food,Bangalore,zomato,281577
+1880,Korean,Bangalore,zomato,231526
+1881,Mughlai,Bangalore,zomato,154030
+1882,Mediterranean,Bangalore,zomato,179790
+1883,Continental,Bangalore,zomato,36046
+1884,Biryani,Bangalore,zomato,84038
+1885,Mediterranean,Bangalore,zomato,33637
+1886,South Indian,Bangalore,zomato,300779
+1887,North Indian,Bangalore,zomato,92951
+1888,Korean,Bangalore,zomato,205023
+1889,Japanese,Bangalore,zomato,137878
+1890,Italian,Bangalore,zomato,72980
+1891,Pan-Asian,Bangalore,zomato,173404
+1892,Mughlai,Bangalore,zomato,137177
+1893,Korean,Bangalore,zomato,24728
+1894,Cafe,Bangalore,zomato,209747
+1895,Street Food,Bangalore,zomato,54533
+1896,Continental,Bangalore,zomato,37324
+1897,Lebanese,Bangalore,zomato,155462
+1898,Fast Food,Bangalore,zomato,99230
+1899,Mediterranean,Bangalore,zomato,101805
+1900,Continental,Bangalore,zomato,120233
+1901,Pan-Asian,Bangalore,zomato,151714
+1902,Mexican,Bangalore,zomato,211461
+1903,Japanese,Bangalore,zomato,120905
+1904,Street Food,Bangalore,zomato,74003
+1905,Biryani,Bangalore,zomato,156669
+1906,Seafood,Bangalore,zomato,57805
+1907,Fast Food,Bangalore,zomato,37740
+1908,South Indian,Bangalore,zomato,17868
+1909,South Indian,Bangalore,zomato,233804
+1910,Pan-Asian,Bangalore,zomato,119481
+1911,Pan-Asian,Bangalore,zomato,236697
+1912,Biryani,Bangalore,zomato,165399
+1913,Desserts,Bangalore,zomato,231095
+1914,Lebanese,Bangalore,zomato,121957
+1915,Fast Food,Bangalore,zomato,206583
+1916,Street Food,Bangalore,zomato,148853
+1917,Bakery,Bangalore,zomato,67512
+1918,Vietnamese,Bangalore,zomato,59469
+1919,Japanese,Bangalore,zomato,241743
+1920,Mediterranean,Bangalore,zomato,30729
+1921,Mexican,Bangalore,zomato,34483
+1922,Vietnamese,Bangalore,zomato,32094
+1923,Street Food,Bangalore,zomato,77884
+1924,Continental,Bangalore,zomato,109551
+1925,Seafood,Bangalore,zomato,156378
+1926,Multi-Cuisine,Bangalore,zomato,245916
+1927,Pan-Asian,Bangalore,zomato,86009
+1928,Seafood,Bangalore,zomato,146593
+1929,Mediterranean,Bangalore,zomato,165406
+1930,Vietnamese,Bangalore,zomato,124392
+1931,Mexican,Bangalore,zomato,111434
+1932,Japanese,Bangalore,zomato,80325
+1933,Biryani,Bangalore,zomato,34201
+1934,Bakery,Bangalore,zomato,21462
+1935,Lebanese,Bangalore,zomato,220734
+1936,Bakery,Bangalore,zomato,164559
+1937,Vietnamese,Bangalore,zomato,155402
+1938,Cafe,Bangalore,zomato,190320
+1939,Vietnamese,Bangalore,zomato,44895
+1940,Biryani,Bangalore,zomato,28490
+1941,Chinese,Bangalore,zomato,104198
+1942,Desserts,Bangalore,zomato,166974
+1943,Pan-Asian,Bangalore,zomato,126160
+1944,Fast Food,Bangalore,zomato,34977
+1945,Multi-Cuisine,Bangalore,zomato,148735
+1946,Street Food,Bangalore,zomato,33058
+1947,Biryani,Bangalore,zomato,147264
+1948,Mediterranean,Bangalore,zomato,171450
+1949,Bakery,Bangalore,zomato,65850
+1950,Multi-Cuisine,Bangalore,zomato,82154
+1951,Bakery,Bangalore,zomato,157236
+1952,South Indian,Bangalore,zomato,175348
+1953,Vietnamese,Bangalore,zomato,231837
+1954,Continental,Bangalore,zomato,95426
+1955,Street Food,Bangalore,zomato,78158
+1956,Bakery,Bangalore,zomato,187661
+1957,Mexican,Bangalore,zomato,190593
+1958,Japanese,Bangalore,zomato,97307
+1959,Continental,Bangalore,zomato,100606
+1960,Chinese,Bangalore,zomato,86494
+1961,Bakery,Bangalore,zomato,83194
+1962,Thai,Bangalore,zomato,94201
+1963,Korean,Bangalore,zomato,176207
+1964,Mediterranean,Delhi,zomato,90539
+1965,Pan-Asian,Delhi,zomato,166495
+1966,Seafood,Delhi,zomato,18673
+1967,Vietnamese,Delhi,zomato,109487
+1968,Lebanese,Delhi,zomato,264148
+1969,Thai,Delhi,zomato,160909
+1970,Bakery,Delhi,zomato,122408
+1971,Korean,Delhi,zomato,175048
+1972,Mexican,Delhi,zomato,167372
+1973,Cafe,Delhi,zomato,124411
+1974,Street Food,Delhi,zomato,183568
+1975,Thai,Delhi,zomato,135315
+1976,Fast Food,Delhi,zomato,195564
+1977,Pan-Asian,Delhi,zomato,102278
+1978,Street Food,Delhi,zomato,43664
+1979,Fast Food,Delhi,zomato,25081
+1980,Mughlai,Delhi,zomato,206143
+1981,Mughlai,Delhi,zomato,109294
+1982,Korean,Delhi,zomato,57224
+1983,Biryani,Delhi,zomato,154578
+1984,Thai,Delhi,zomato,124679
+1985,Biryani,Delhi,zomato,224592
+1986,Multi-Cuisine,Delhi,zomato,190559
+1987,Bakery,Delhi,zomato,106869
+1988,Italian,Delhi,zomato,130258
+1989,Mughlai,Delhi,zomato,236314
+1990,Continental,Delhi,zomato,14782
+1991,Lebanese,Delhi,zomato,16836
+1992,Cafe,Delhi,zomato,243175
+1993,Seafood,Delhi,zomato,68586
+1994,South Indian,Delhi,zomato,118682
+1995,Korean,Delhi,zomato,48310
+1996,Desserts,Delhi,zomato,252716
+1997,Continental,Delhi,zomato,75810
+1998,Seafood,Delhi,zomato,34301
+1999,Mexican,Delhi,zomato,76210
+2000,Biryani,Delhi,zomato,47309
+2001,Cafe,Delhi,zomato,85964
+2002,Bakery,Delhi,zomato,290811
+2003,Mediterranean,Delhi,zomato,101705
+2004,Lebanese,Delhi,zomato,138250
+2005,Vietnamese,Delhi,zomato,162855
+2006,Italian,Delhi,zomato,136056
+2007,South Indian,Delhi,zomato,43902
+2008,Japanese,Delhi,zomato,122142
+2009,Biryani,Delhi,zomato,113380
+2010,Vietnamese,Delhi,zomato,84142
+2011,Mexican,Delhi,zomato,130037
+2012,Mediterranean,Delhi,zomato,139582
+2013,Mediterranean,Delhi,zomato,81294
+2014,Chinese,Delhi,zomato,40696
+2015,Mediterranean,Delhi,zomato,30907
+2016,Pan-Asian,Delhi,zomato,110298
+2017,Thai,Delhi,zomato,54954
+2018,Thai,Delhi,zomato,78475
+2019,Continental,Delhi,zomato,181545
+2020,Vietnamese,Delhi,zomato,197791
+2021,Desserts,Delhi,zomato,69342
+2022,Italian,Delhi,zomato,131608
+2023,Street Food,Delhi,zomato,266593
+2024,Seafood,Delhi,zomato,247670
+2025,Continental,Delhi,zomato,275065
+2026,Mediterranean,Delhi,zomato,102802
+2027,South Indian,Delhi,zomato,236817
+2028,Biryani,Delhi,zomato,29206
+2029,Mediterranean,Delhi,zomato,35241
+2030,Lebanese,Delhi,zomato,132064
+2031,Cafe,Delhi,zomato,188312
+2032,Mughlai,Delhi,zomato,241425
+2033,Mexican,Delhi,zomato,276191
+2034,Cafe,Delhi,zomato,53951
+2035,Italian,Delhi,zomato,168455
+2036,North Indian,Delhi,zomato,98417
+2037,Korean,Delhi,zomato,50481
+2038,Thai,Delhi,zomato,79733
+2039,Fast Food,Delhi,zomato,172477
+2040,Japanese,Delhi,zomato,242252
+2041,Thai,Delhi,zomato,45774
+2042,Cafe,Delhi,zomato,160733
+2043,Continental,Delhi,zomato,139003
+2044,North Indian,Delhi,zomato,282836
+2045,Desserts,Delhi,zomato,116136
+2046,Italian,Delhi,zomato,33075
+2047,Fast Food,Delhi,zomato,234582
+2048,Seafood,Delhi,zomato,30894
+2049,Vietnamese,Delhi,zomato,142942
+2050,Desserts,Delhi,zomato,107242
+2051,Seafood,Delhi,zomato,176022
+2052,Seafood,Delhi,zomato,113382
+2053,Cafe,Delhi,zomato,74968
+2054,Street Food,Delhi,zomato,49283
+2055,Chinese,Delhi,zomato,154569
+2056,Mughlai,Delhi,zomato,137790
+2057,Continental,Delhi,zomato,95304
+2058,Lebanese,Delhi,zomato,201489
+2059,Thai,Delhi,zomato,212317
+2060,Mediterranean,Delhi,zomato,107358
+2061,South Indian,Delhi,zomato,121506
+2062,Bakery,Delhi,zomato,158582
+2063,Bakery,Delhi,zomato,32693
+2064,North Indian,Delhi,zomato,334980
+2065,North Indian,Delhi,zomato,181283
+2066,Seafood,Delhi,zomato,233310
+2067,Lebanese,Delhi,zomato,71962
+2068,Cafe,Delhi,zomato,94644
+2069,Mughlai,Delhi,zomato,52148
+2070,Continental,Delhi,zomato,281815
+2071,Chinese,Delhi,zomato,66401
+2072,Cafe,Delhi,zomato,46845
+2073,Vietnamese,Delhi,zomato,182651
+2074,Continental,Delhi,zomato,195213
+2075,Biryani,Delhi,zomato,139509
+2076,Vietnamese,Delhi,zomato,143126
+2077,Bakery,Delhi,zomato,89252
+2078,Biryani,Delhi,zomato,128040
+2079,Korean,Delhi,zomato,273431
+2080,Mughlai,Delhi,zomato,117018
+2081,Bakery,Delhi,zomato,190963
+2082,Desserts,Delhi,zomato,30185
+2083,Seafood,Delhi,zomato,167225
+2084,Lebanese,Delhi,zomato,78575
+2085,Italian,Delhi,zomato,113953
+2086,Japanese,Delhi,zomato,60619
+2087,Japanese,Delhi,zomato,298135
+2088,Italian,Delhi,zomato,151311
+2089,Seafood,Delhi,zomato,121253
+2090,Korean,Delhi,zomato,16873
+2091,Vietnamese,Delhi,zomato,165240
+2092,Japanese,Delhi,zomato,194519
+2093,Biryani,Delhi,zomato,129405
+2094,Multi-Cuisine,Delhi,zomato,27717
+2095,Pan-Asian,Delhi,zomato,151647
+2096,North Indian,Delhi,zomato,265000
+2097,Seafood,Delhi,zomato,87907
+2098,Mediterranean,Delhi,zomato,186624
+2099,Chinese,Delhi,zomato,44589
+2100,Continental,Delhi,zomato,121436
+2101,Chinese,Delhi,zomato,143254
+2102,Italian,Delhi,zomato,103061
+2103,Continental,Delhi,zomato,148359
+2104,Multi-Cuisine,Delhi,zomato,42008
+2105,Cafe,Delhi,zomato,43478
+2106,Street Food,Delhi,zomato,125717
+2107,Seafood,Delhi,zomato,258339
+2108,Desserts,Delhi,zomato,158793
+2109,Seafood,Delhi,zomato,37249
+2110,Vietnamese,Delhi,zomato,87723
+2111,Lebanese,Delhi,zomato,145891
+2112,Japanese,Delhi,zomato,201618
+2113,Biryani,Delhi,zomato,320068
+2114,Italian,Delhi,zomato,70617
+2115,Street Food,Delhi,zomato,96647
+2116,South Indian,Delhi,zomato,224414
+2117,Continental,Delhi,zomato,104836
+2118,Vietnamese,Delhi,zomato,137250
+2119,Lebanese,Delhi,zomato,121216
+2120,Chinese,Delhi,zomato,128051
+2121,Italian,Delhi,zomato,36750
+2122,Biryani,Delhi,zomato,67608
+2123,Mughlai,Delhi,zomato,125285
+2124,Street Food,Delhi,zomato,66334
+2125,Mughlai,Delhi,zomato,127002
+2126,Biryani,Delhi,zomato,163174
+2127,Japanese,Delhi,zomato,175935
+2128,Desserts,Delhi,zomato,91639
+2129,Desserts,Delhi,zomato,56675
+2130,Lebanese,Delhi,zomato,362841
+2131,Continental,Delhi,zomato,96731
+2132,Korean,Delhi,zomato,24257
+2133,Continental,Delhi,zomato,90493
+2134,Mexican,Delhi,zomato,100863
+2135,Thai,Delhi,zomato,108830
+2136,Continental,Delhi,zomato,269888
+2137,Street Food,Delhi,zomato,100339
+2138,Street Food,Delhi,zomato,78140
+2139,Street Food,Delhi,zomato,29274
+2140,North Indian,Delhi,zomato,173185
+2141,Mediterranean,Delhi,zomato,97070
+2142,Bakery,Delhi,zomato,69764
+2143,Street Food,Delhi,zomato,70381
+2144,Lebanese,Delhi,zomato,147712
+2145,North Indian,Delhi,zomato,109160
+2146,Bakery,Delhi,zomato,164069
+2147,South Indian,Delhi,zomato,287696
+2148,Thai,Delhi,zomato,55025
+2149,Chinese,Delhi,zomato,231264
+2150,Biryani,Delhi,zomato,30451
+2151,Pan-Asian,Delhi,zomato,63817
+2152,Pan-Asian,Delhi,zomato,120912
+2153,Thai,Delhi,zomato,69023
+2154,Mexican,Delhi,zomato,108536
+2155,Bakery,Delhi,zomato,158695
+2156,Cafe,Delhi,zomato,128539
+2157,Mexican,Delhi,zomato,127836
+2158,North Indian,Delhi,zomato,111602
+2159,Cafe,Delhi,zomato,134464
+2160,Biryani,Delhi,zomato,110290
+2161,Pan-Asian,Delhi,zomato,390433
+2162,North Indian,Delhi,zomato,55200
+2163,Mediterranean,Delhi,zomato,95964
+2164,Japanese,Delhi,zomato,37026
+2165,Biryani,Delhi,zomato,231364
+2166,Fast Food,Delhi,zomato,196891
+2167,Bakery,Delhi,zomato,43812
+2168,Italian,Delhi,zomato,76505
+2169,Thai,Delhi,zomato,173420
+2170,Street Food,Delhi,zomato,16302
+2171,Bakery,Delhi,zomato,109666
+2172,Biryani,Delhi,zomato,44820
+2173,Street Food,Delhi,zomato,147479
+2174,Lebanese,Delhi,zomato,62605
+2175,Seafood,Delhi,zomato,125297
+2176,Pan-Asian,Delhi,zomato,176619
+2177,North Indian,Delhi,zomato,117903
+2178,South Indian,Pune,zomato,41961
+2179,Bakery,Pune,zomato,16884
+2180,Biryani,Pune,zomato,116040
+2181,Biryani,Pune,zomato,216723
+2182,Biryani,Pune,zomato,138282
+2183,Italian,Pune,zomato,75541
+2184,Italian,Pune,zomato,112781
+2185,Biryani,Pune,zomato,25016
+2186,Continental,Pune,zomato,16639
+2187,Street Food,Pune,zomato,150978
+2188,Multi-Cuisine,Pune,zomato,116103
+2189,Desserts,Pune,zomato,145118
+2190,Mediterranean,Pune,zomato,175280
+2191,Korean,Pune,zomato,76284
+2192,Pan-Asian,Pune,zomato,27562
+2193,Cafe,Pune,zomato,276267
+2194,Desserts,Pune,zomato,117031
+2195,Mediterranean,Pune,zomato,89434
+2196,Seafood,Pune,zomato,55407
+2197,Street Food,Pune,zomato,83828
+2198,Biryani,Pune,zomato,262420
+2199,Mediterranean,Pune,zomato,139075
+2200,Korean,Pune,zomato,148266
+2201,Continental,Pune,zomato,61119
+2202,Mughlai,Pune,zomato,90054
+2203,Mughlai,Pune,zomato,209416
+2204,North Indian,Pune,zomato,205506
+2205,Japanese,Pune,zomato,95034
+2206,Cafe,Pune,zomato,88328
+2207,Thai,Pune,zomato,100537
+2208,Chinese,Pune,zomato,62237
+2209,Continental,Pune,zomato,271948
+2210,Street Food,Pune,zomato,205501
+2211,Chinese,Pune,zomato,216678
+2212,Street Food,Pune,zomato,63483
+2213,Desserts,Pune,zomato,337365
+2214,Lebanese,Pune,zomato,376979
+2215,Fast Food,Pune,zomato,138606
+2216,Fast Food,Pune,zomato,80729
+2217,Street Food,Pune,zomato,114642
+2218,Biryani,Pune,zomato,158378
+2219,Multi-Cuisine,Pune,zomato,20869
+2220,Korean,Pune,zomato,19491
+2221,Mughlai,Pune,zomato,20046
+2222,Bakery,Pune,zomato,80977
+2223,Mexican,Pune,zomato,31710
+2224,Street Food,Pune,zomato,292575
+2225,Thai,Pune,zomato,77208
+2226,North Indian,Pune,zomato,112877
+2227,Japanese,Pune,zomato,51560
+2228,Mediterranean,Pune,zomato,288929
+2229,Seafood,Pune,zomato,245073
+2230,Desserts,Pune,zomato,187054
+2231,Multi-Cuisine,Pune,zomato,187698
+2232,Thai,Pune,zomato,53443
+2233,Lebanese,Pune,zomato,159957
+2234,Desserts,Pune,zomato,134472
+2235,Lebanese,Pune,zomato,48210
+2236,Cafe,Pune,zomato,139170
+2237,Biryani,Pune,zomato,179373
+2238,Thai,Pune,zomato,76484
+2239,Bakery,Pune,zomato,167752
+2240,Mediterranean,Pune,zomato,39491
+2241,Korean,Pune,zomato,70688
+2242,Biryani,Pune,zomato,123684
+2243,Multi-Cuisine,Pune,zomato,190243
+2244,Mediterranean,Pune,zomato,22759
+2245,Cafe,Pune,zomato,138593
+2246,Fast Food,Pune,zomato,149098
+2247,Mughlai,Pune,zomato,13738
+2248,North Indian,Pune,zomato,169208
+2249,Pan-Asian,Pune,zomato,73141
+2250,Multi-Cuisine,Pune,zomato,92585
+2251,Bakery,Pune,zomato,34874
+2252,Fast Food,Pune,zomato,170158
+2253,Italian,Pune,zomato,60228
+2254,North Indian,Pune,zomato,145733
+2255,Mediterranean,Pune,zomato,120728
+2256,Fast Food,Pune,zomato,163101
+2257,Lebanese,Pune,zomato,148791
+2258,Multi-Cuisine,Pune,zomato,164920
+2259,Street Food,Pune,zomato,16289
+2260,Mexican,Pune,zomato,87550
+2261,Bakery,Pune,zomato,57317
+2262,Japanese,Pune,zomato,223440
+2263,Korean,Pune,zomato,107656
+2264,Multi-Cuisine,Pune,zomato,165688
+2265,Mughlai,Pune,zomato,107053
+2266,Multi-Cuisine,Pune,zomato,159684
+2267,Mexican,Pune,zomato,31048
+2268,Mexican,Pune,zomato,191028
+2269,Cafe,Pune,zomato,223377
+2270,Cafe,Pune,zomato,121138
+2271,Mediterranean,Pune,zomato,22591
+2272,Continental,Pune,zomato,146385
+2273,Desserts,Pune,zomato,367809
+2274,Chinese,Pune,zomato,205255
+2275,Italian,Pune,zomato,211850
+2276,Vietnamese,Pune,zomato,94793
+2277,Chinese,Pune,zomato,97263
+2278,Cafe,Pune,zomato,315353
+2279,Italian,Pune,zomato,174005
+2280,North Indian,Pune,zomato,107353
+2281,Seafood,Pune,zomato,162348
+2282,Mexican,Pune,zomato,222230
+2283,Fast Food,Pune,zomato,42837
+2284,South Indian,Pune,zomato,28465
+2285,Street Food,Pune,zomato,50993
+2286,Biryani,Pune,zomato,166646
+2287,Street Food,Pune,zomato,44107
+2288,Lebanese,Pune,zomato,58763
+2289,North Indian,Pune,zomato,248443
+2290,Cafe,Pune,zomato,292512
+2291,Japanese,Pune,zomato,74408
+2292,Biryani,Pune,zomato,130825
+2293,North Indian,Pune,zomato,148807
+2294,Cafe,Pune,zomato,87628
+2295,South Indian,Pune,zomato,168654
+2296,Mexican,Pune,zomato,178025
+2297,Cafe,Pune,zomato,163714
+2298,Multi-Cuisine,Pune,zomato,222216
+2299,Lebanese,Pune,zomato,20422
+2300,Mediterranean,Pune,zomato,46653
+2301,Street Food,Pune,zomato,95443
+2302,Bakery,Pune,zomato,156791
+2303,Seafood,Pune,zomato,101067
+2304,Lebanese,Pune,zomato,90365
+2305,Fast Food,Pune,zomato,50764
+2306,Japanese,Pune,zomato,71387
+2307,North Indian,Pune,zomato,120038
+2308,Korean,Pune,zomato,265766
+2309,Fast Food,Pune,zomato,145247
+2310,Continental,Pune,zomato,205620
+2311,Pan-Asian,Pune,zomato,51058
+2312,Mexican,Pune,zomato,119547
+2313,Thai,Pune,zomato,105736
+2314,Bakery,Pune,zomato,232293
+2315,Cafe,Pune,zomato,37703
+2316,Multi-Cuisine,Pune,zomato,124069
+2317,Pan-Asian,Pune,zomato,135160
+2318,North Indian,Pune,zomato,85113
+2319,Cafe,Pune,zomato,135387
+2320,Japanese,Pune,zomato,226628
+2321,Mughlai,Pune,zomato,58700
+2322,Bakery,Pune,zomato,147537
+2323,Pan-Asian,Pune,zomato,13387
+2324,Korean,Pune,zomato,58731
+2325,Continental,Pune,zomato,29772
+2326,Cafe,Pune,zomato,90872
+2327,Italian,Pune,zomato,196216
+2328,Chinese,Pune,zomato,165468
+2329,Bakery,Pune,zomato,146344
+2330,Continental,Pune,zomato,26812
+2331,Mughlai,Pune,zomato,141827
+2332,Continental,Pune,zomato,194716
+2333,Japanese,Pune,zomato,151870
+2334,Mughlai,Pune,zomato,118592
+2335,Mexican,Pune,zomato,397469
+2336,Vietnamese,Pune,zomato,82717
+2337,Seafood,Pune,zomato,103731
+2338,Korean,Pune,zomato,22805
+2339,North Indian,Pune,zomato,55910
+2340,Korean,Pune,zomato,118370
+2341,Continental,Pune,zomato,40801
+2342,Italian,Pune,zomato,190683
+2343,South Indian,Pune,zomato,50216
+2344,South Indian,Hyderabad,zomato,99695
+2345,Korean,Hyderabad,zomato,183540
+2346,Thai,Hyderabad,zomato,138350
+2347,Mexican,Hyderabad,zomato,75877
+2348,Desserts,Hyderabad,zomato,233991
+2349,North Indian,Hyderabad,zomato,61269
+2350,Vietnamese,Hyderabad,zomato,172546
+2351,South Indian,Hyderabad,zomato,57505
+2352,Mughlai,Hyderabad,zomato,76888
+2353,Chinese,Hyderabad,zomato,89074
+2354,Bakery,Hyderabad,zomato,189816
+2355,Mediterranean,Hyderabad,zomato,61387
+2356,Lebanese,Hyderabad,zomato,41140
+2357,Mediterranean,Hyderabad,zomato,296527
+2358,Mediterranean,Hyderabad,zomato,47987
+2359,Desserts,Hyderabad,zomato,115793
+2360,North Indian,Hyderabad,zomato,66611
+2361,South Indian,Hyderabad,zomato,96832
+2362,Biryani,Hyderabad,zomato,23094
+2363,Mexican,Hyderabad,zomato,281200
+2364,Street Food,Hyderabad,zomato,34663
+2365,North Indian,Hyderabad,zomato,92809
+2366,Street Food,Hyderabad,zomato,57892
+2367,South Indian,Hyderabad,zomato,58436
+2368,Italian,Hyderabad,zomato,320135
+2369,Continental,Hyderabad,zomato,172529
+2370,Chinese,Hyderabad,zomato,164400
+2371,South Indian,Hyderabad,zomato,134362
+2372,Lebanese,Hyderabad,zomato,164931
+2373,Multi-Cuisine,Hyderabad,zomato,20294
+2374,Bakery,Hyderabad,zomato,70795
+2375,Biryani,Hyderabad,zomato,117882
+2376,Biryani,Hyderabad,zomato,151998
+2377,Korean,Hyderabad,zomato,188286
+2378,Seafood,Hyderabad,zomato,311860
+2379,Bakery,Hyderabad,zomato,138201
+2380,Korean,Hyderabad,zomato,341969
+2381,Mughlai,Hyderabad,zomato,250008
+2382,Vietnamese,Hyderabad,zomato,165015
+2383,Biryani,Hyderabad,zomato,45455
+2384,Desserts,Hyderabad,zomato,33494
+2385,Thai,Hyderabad,zomato,116624
+2386,Cafe,Hyderabad,zomato,63959
+2387,Mexican,Hyderabad,zomato,187446
+2388,Korean,Hyderabad,zomato,104007
+2389,Vietnamese,Hyderabad,zomato,83756
+2390,Lebanese,Hyderabad,zomato,186837
+2391,Fast Food,Hyderabad,zomato,155382
+2392,Desserts,Hyderabad,zomato,68977
+2393,Korean,Hyderabad,zomato,58191
+2394,South Indian,Hyderabad,zomato,62400
+2395,Seafood,Hyderabad,zomato,68047
+2396,Chinese,Hyderabad,zomato,186850
+2397,Seafood,Hyderabad,zomato,182553
+2398,Italian,Hyderabad,zomato,339528
+2399,Multi-Cuisine,Hyderabad,zomato,97792
+2400,Desserts,Hyderabad,zomato,206511
+2401,Italian,Hyderabad,zomato,32421
+2402,Chinese,Hyderabad,zomato,53653
+2403,Korean,Hyderabad,zomato,182577
+2404,Biryani,Hyderabad,zomato,65262
+2405,Mexican,Hyderabad,zomato,203627
+2406,Multi-Cuisine,Hyderabad,zomato,263304
+2407,Street Food,Hyderabad,zomato,208831
+2408,Desserts,Hyderabad,zomato,73059
+2409,Desserts,Hyderabad,zomato,99368
+2410,Bakery,Hyderabad,zomato,24819
+2411,Korean,Hyderabad,zomato,176146
+2412,South Indian,Hyderabad,zomato,66634
+2413,Thai,Hyderabad,zomato,203957
+2414,Biryani,Hyderabad,zomato,33616
+2415,North Indian,Hyderabad,zomato,69547
+2416,Chinese,Hyderabad,zomato,264013
+2417,Mediterranean,Hyderabad,zomato,310644
+2418,Lebanese,Hyderabad,zomato,222955
+2419,Desserts,Hyderabad,zomato,70227
+2420,Pan-Asian,Hyderabad,zomato,80643
+2421,Desserts,Hyderabad,zomato,169454
+2422,Desserts,Hyderabad,zomato,67008
+2423,Vietnamese,Hyderabad,zomato,80063
+2424,Fast Food,Hyderabad,zomato,90980
+2425,Mexican,Hyderabad,zomato,145532
+2426,Mediterranean,Hyderabad,zomato,35083
+2427,Desserts,Hyderabad,zomato,136861
+2428,Mediterranean,Hyderabad,zomato,15678
+2429,Vietnamese,Hyderabad,zomato,58234
+2430,Korean,Hyderabad,zomato,53262
+2431,Korean,Hyderabad,zomato,155842
+2432,Mexican,Hyderabad,zomato,113270
+2433,Desserts,Hyderabad,zomato,255173
+2434,Street Food,Hyderabad,zomato,54814
+2435,North Indian,Hyderabad,zomato,20608
+2436,Chinese,Hyderabad,zomato,67360
+2437,Japanese,Hyderabad,zomato,117536
+2438,Japanese,Hyderabad,zomato,135358
+2439,South Indian,Hyderabad,zomato,147021
+2440,Lebanese,Hyderabad,zomato,29912
+2441,Biryani,Hyderabad,zomato,174691
+2442,Bakery,Hyderabad,zomato,148067
+2443,Mughlai,Hyderabad,zomato,31961
+2444,Fast Food,Hyderabad,zomato,125169
+2445,Mughlai,Hyderabad,zomato,254666
+2446,South Indian,Hyderabad,zomato,164867
+2447,Fast Food,Hyderabad,zomato,270585
+2448,Biryani,Hyderabad,zomato,266797
+2449,Mediterranean,Hyderabad,zomato,138139
+2450,Continental,Hyderabad,zomato,158272
+2451,Desserts,Hyderabad,zomato,135913
+2452,Mexican,Hyderabad,zomato,236901
+2453,Vietnamese,Hyderabad,zomato,77194
+2454,Cafe,Hyderabad,zomato,74383
+2455,Desserts,Hyderabad,zomato,184293
+2456,North Indian,Hyderabad,zomato,237214
+2457,North Indian,Hyderabad,zomato,129319
+2458,North Indian,Hyderabad,zomato,33638
+2459,Bakery,Hyderabad,zomato,132892
+2460,Street Food,Hyderabad,zomato,128638
+2461,Mexican,Hyderabad,zomato,58940
+2462,Japanese,Hyderabad,zomato,196147
+2463,Bakery,Hyderabad,zomato,117000
+2464,Chinese,Hyderabad,zomato,57937
+2465,Desserts,Hyderabad,zomato,315489
+2466,Cafe,Hyderabad,zomato,24017
+2467,Italian,Hyderabad,zomato,35868
+2468,Mexican,Hyderabad,zomato,220581
+2469,Mughlai,Hyderabad,zomato,102853
+2470,Korean,Hyderabad,zomato,167590
+2471,Thai,Hyderabad,zomato,107920
+2472,Seafood,Hyderabad,zomato,54554
+2473,South Indian,Hyderabad,zomato,59589
+2474,Italian,Hyderabad,zomato,76207
+2475,Bakery,Hyderabad,zomato,22606
+2476,Street Food,Hyderabad,zomato,94516
+2477,Chinese,Hyderabad,zomato,161669
+2478,Thai,Hyderabad,zomato,303037
+2479,Street Food,Hyderabad,zomato,168707
+2480,Chinese,Chennai,zomato,192917
+2481,Seafood,Chennai,zomato,68987
+2482,Korean,Chennai,zomato,254756
+2483,Seafood,Chennai,zomato,72661
+2484,Continental,Chennai,zomato,37739
+2485,Mexican,Chennai,zomato,68612
+2486,Desserts,Chennai,zomato,273301
+2487,Seafood,Chennai,zomato,247929
+2488,Mughlai,Chennai,zomato,271901
+2489,Street Food,Chennai,zomato,57923
+2490,Korean,Chennai,zomato,182633
+2491,Cafe,Chennai,zomato,76397
+2492,Bakery,Chennai,zomato,162398
+2493,Italian,Chennai,zomato,41867
+2494,Italian,Chennai,zomato,177784
+2495,Continental,Chennai,zomato,103123
+2496,Italian,Chennai,zomato,152801
+2497,Desserts,Chennai,zomato,127912
+2498,Pan-Asian,Chennai,zomato,123390
+2499,Mexican,Chennai,zomato,24222
+2500,Street Food,Chennai,zomato,27678
+2501,Pan-Asian,Chennai,zomato,88359
+2502,Bakery,Chennai,zomato,245684
+2503,Japanese,Chennai,zomato,111299
+2504,Biryani,Chennai,zomato,35532
+2505,Cafe,Chennai,zomato,130214
+2506,Biryani,Chennai,zomato,30896
+2507,Lebanese,Chennai,zomato,82539
+2508,South Indian,Chennai,zomato,132524
+2509,Thai,Chennai,zomato,173393
+2510,Lebanese,Chennai,zomato,74268
+2511,Mexican,Chennai,zomato,76092
+2512,Chinese,Chennai,zomato,215762
+2513,Continental,Chennai,zomato,203875
+2514,Biryani,Chennai,zomato,141829
+2515,Mediterranean,Chennai,zomato,99361
+2516,Japanese,Chennai,zomato,210168
+2517,Bakery,Chennai,zomato,170064
+2518,Seafood,Chennai,zomato,147262
+2519,Italian,Chennai,zomato,110661
+2520,Vietnamese,Chennai,zomato,65002
+2521,Seafood,Chennai,zomato,159869
+2522,Pan-Asian,Chennai,zomato,208458
+2523,Multi-Cuisine,Chennai,zomato,95396
+2524,Italian,Chennai,zomato,52002
+2525,Biryani,Chennai,zomato,157603
+2526,Bakery,Chennai,zomato,58755
+2527,Continental,Chennai,zomato,218832
+2528,Desserts,Chennai,zomato,87876
+2529,Street Food,Chennai,zomato,175607
+2530,Multi-Cuisine,Chennai,zomato,25373
+2531,Fast Food,Chennai,zomato,55762
+2532,South Indian,Chennai,zomato,47191
+2533,North Indian,Chennai,zomato,94750
+2534,Fast Food,Chennai,zomato,183614
+2535,North Indian,Chennai,zomato,122774
+2536,Thai,Chennai,zomato,133008
+2537,Pan-Asian,Chennai,zomato,12807
+2538,Street Food,Chennai,zomato,187960
+2539,Vietnamese,Chennai,zomato,83151
+2540,Biryani,Chennai,zomato,120912
+2541,Fast Food,Chennai,zomato,85469
+2542,Cafe,Chennai,zomato,110276
+2543,Mughlai,Chennai,zomato,88229
+2544,Pan-Asian,Chennai,zomato,236752
+2545,Seafood,Chennai,zomato,137962
+2546,South Indian,Chennai,zomato,59719
+2547,Mughlai,Chennai,zomato,147109
+2548,Korean,Chennai,zomato,76169
+2549,Pan-Asian,Chennai,zomato,122245
+2550,North Indian,Chennai,zomato,191950
+2551,Italian,Chennai,zomato,196804
+2552,Bakery,Chennai,zomato,48378
+2553,Chinese,Chennai,zomato,188982
+2554,Thai,Chennai,zomato,143687
+2555,Street Food,Chennai,zomato,17808
+2556,Lebanese,Chennai,zomato,73877
+2557,Bakery,Chennai,zomato,80766
+2558,Italian,Chennai,zomato,202080
+2559,Japanese,Chennai,zomato,104587
+2560,South Indian,Chennai,zomato,123315
+2561,Korean,Chennai,zomato,239382
+2562,South Indian,Chennai,zomato,121164
+2563,Vietnamese,Chennai,zomato,246449
+2564,Pan-Asian,Chennai,zomato,114582
+2565,Vietnamese,Chennai,zomato,11144
+2566,Thai,Chennai,zomato,21076
+2567,Desserts,Chennai,zomato,315783
+2568,Chinese,Chennai,zomato,87019
+2569,Seafood,Chennai,zomato,126048
+2570,Biryani,Chennai,zomato,30450
+2571,Mexican,Chennai,zomato,150690
+2572,Street Food,Chennai,zomato,202015
+2573,Chinese,Chennai,zomato,192540
+2574,Italian,Chennai,zomato,344088
+2575,Thai,Chennai,zomato,210655
+2576,Mughlai,Chennai,zomato,157904
+2577,Mexican,Chennai,zomato,154512
+2578,Street Food,Chennai,zomato,89603
+2579,Chinese,Chennai,zomato,215008
+2580,Continental,Chennai,zomato,230394
+2581,Seafood,Chennai,zomato,50945
+2582,Seafood,Chennai,zomato,99288
+2583,Vietnamese,Chennai,zomato,30204
+2584,Italian,Chennai,zomato,188043
+2585,Lebanese,Chennai,zomato,23620
+2586,Italian,Chennai,zomato,36946
+2587,Cafe,Chennai,zomato,85887
+2588,Chinese,Chennai,zomato,77794
+2589,Fast Food,Chennai,zomato,253814
+2590,Biryani,Chennai,zomato,94800
+2591,Lebanese,Chennai,zomato,250809
+2592,Fast Food,Chennai,zomato,103925
+2593,Cafe,Chennai,zomato,159344
+2594,Mughlai,Chennai,zomato,112289
+2595,Bakery,Chennai,zomato,113469
+2596,Seafood,Chennai,zomato,155069
+2597,Continental,Chennai,zomato,94129
+2598,Mediterranean,Chennai,zomato,159114
+2599,Thai,Chennai,zomato,115723
+2600,Mediterranean,Chennai,zomato,47848
+2601,Lebanese,Kolkata,zomato,15362
+2602,Korean,Kolkata,zomato,183492
+2603,Japanese,Kolkata,zomato,35524
+2604,Mexican,Kolkata,zomato,42438
+2605,Street Food,Kolkata,zomato,40741
+2606,Fast Food,Kolkata,zomato,150936
+2607,Multi-Cuisine,Kolkata,zomato,149412
+2608,North Indian,Kolkata,zomato,47258
+2609,Pan-Asian,Kolkata,zomato,105594
+2610,Street Food,Kolkata,zomato,91158
+2611,Cafe,Kolkata,zomato,199235
+2612,Japanese,Kolkata,zomato,137925
+2613,Thai,Kolkata,zomato,169970
+2614,Mexican,Kolkata,zomato,121171
+2615,Mediterranean,Kolkata,zomato,68941
+2616,Cafe,Kolkata,zomato,254463
+2617,Multi-Cuisine,Kolkata,zomato,118757
+2618,Italian,Kolkata,zomato,165385
+2619,Mughlai,Kolkata,zomato,56198
+2620,Mediterranean,Kolkata,zomato,121750
+2621,Mediterranean,Kolkata,zomato,176390
+2622,Cafe,Kolkata,zomato,76360
+2623,Street Food,Kolkata,zomato,82722
+2624,Seafood,Kolkata,zomato,65344
+2625,Street Food,Kolkata,zomato,55595
+2626,Street Food,Kolkata,zomato,62331
+2627,Pan-Asian,Kolkata,zomato,110260
+2628,Mediterranean,Kolkata,zomato,156388
+2629,Seafood,Kolkata,zomato,145836
+2630,Bakery,Kolkata,zomato,39396
+2631,Desserts,Kolkata,zomato,36792
+2632,North Indian,Kolkata,zomato,120690
+2633,Italian,Kolkata,zomato,32778
+2634,Fast Food,Kolkata,zomato,81917
+2635,Bakery,Kolkata,zomato,145966
+2636,Multi-Cuisine,Kolkata,zomato,75988
+2637,Continental,Kolkata,zomato,109851
+2638,Street Food,Kolkata,zomato,73230
+2639,Mediterranean,Kolkata,zomato,75548
+2640,Seafood,Kolkata,zomato,173352
+2641,Italian,Kolkata,zomato,41510
+2642,Street Food,Kolkata,zomato,192642
+2643,Mediterranean,Kolkata,zomato,155385
+2644,Mediterranean,Kolkata,zomato,25026
+2645,Bakery,Kolkata,zomato,203786
+2646,Street Food,Kolkata,zomato,65305
+2647,Mughlai,Kolkata,zomato,87488
+2648,Desserts,Kolkata,zomato,184778
+2649,South Indian,Kolkata,zomato,187311
+2650,Desserts,Kolkata,zomato,193712
+2651,Mexican,Kolkata,zomato,84456
+2652,Mughlai,Kolkata,zomato,227591
+2653,Desserts,Kolkata,zomato,279717
+2654,Cafe,Kolkata,zomato,106339
+2655,Seafood,Kolkata,zomato,64159
+2656,Multi-Cuisine,Kolkata,zomato,11650
+2657,Cafe,Kolkata,zomato,238635
+2658,Mediterranean,Kolkata,zomato,49610
+2659,Lebanese,Kolkata,zomato,166182
+2660,Bakery,Kolkata,zomato,196024
+2661,Seafood,Kolkata,zomato,65457
+2662,Mediterranean,Kolkata,zomato,126658
+2663,Vietnamese,Kolkata,zomato,66006
+2664,Mediterranean,Kolkata,zomato,111586
+2665,Mediterranean,Kolkata,zomato,92632
+2666,Chinese,Kolkata,zomato,172284
+2667,Korean,Kolkata,zomato,23487
+2668,Chinese,Kolkata,zomato,190462
+2669,Lebanese,Kolkata,zomato,43403
+2670,Korean,Kolkata,zomato,21318
+2671,Mexican,Kolkata,zomato,124708
+2672,Bakery,Kolkata,zomato,51887
+2673,Japanese,Kolkata,zomato,60863
+2674,Cafe,Kolkata,zomato,60122
+2675,Biryani,Kolkata,zomato,168498
+2676,Multi-Cuisine,Kolkata,zomato,64404
+2677,North Indian,Kolkata,zomato,173698
+2678,Fast Food,Kolkata,zomato,87240
+2679,Bakery,Kolkata,zomato,179942
+2680,Lebanese,Kolkata,zomato,292236
+2681,Street Food,Kolkata,zomato,55075
+2682,Chinese,Kolkata,zomato,211053
+2683,Japanese,Kolkata,zomato,72920
+2684,Mexican,Kolkata,zomato,62978
+2685,Biryani,Kolkata,zomato,242445
+2686,Bakery,Kolkata,zomato,45010
+2687,Fast Food,Kolkata,zomato,21981
+2688,Mughlai,Kolkata,zomato,39890
+2689,Pan-Asian,Kolkata,zomato,130473
+2690,Mexican,Kolkata,zomato,136708
+2691,Multi-Cuisine,Kolkata,zomato,55808
+2692,Chinese,Kolkata,zomato,210012
+2693,Fast Food,Kolkata,zomato,105121
+2694,Korean,Kolkata,zomato,16178
+2695,Vietnamese,Kolkata,zomato,109830
+2696,Lebanese,Ahmedabad,zomato,43736
+2697,Japanese,Ahmedabad,zomato,115041
+2698,Biryani,Ahmedabad,zomato,37280
+2699,North Indian,Ahmedabad,zomato,251569
+2700,Bakery,Ahmedabad,zomato,220771
+2701,Desserts,Ahmedabad,zomato,69346
+2702,North Indian,Ahmedabad,zomato,85990
+2703,Fast Food,Ahmedabad,zomato,130392
+2704,Lebanese,Ahmedabad,zomato,145853
+2705,Pan-Asian,Ahmedabad,zomato,86004
+2706,Vietnamese,Ahmedabad,zomato,25125
+2707,Pan-Asian,Ahmedabad,zomato,101574
+2708,Fast Food,Ahmedabad,zomato,98967
+2709,South Indian,Ahmedabad,zomato,15347
+2710,Mediterranean,Ahmedabad,zomato,264466
+2711,Mughlai,Ahmedabad,zomato,155385
+2712,Seafood,Ahmedabad,zomato,145901
+2713,Korean,Ahmedabad,zomato,203343
+2714,Biryani,Ahmedabad,zomato,138903
+2715,Street Food,Ahmedabad,zomato,81164
+2716,Lebanese,Ahmedabad,zomato,208887
+2717,Mexican,Ahmedabad,zomato,155095
+2718,Korean,Ahmedabad,zomato,216974
+2719,Street Food,Ahmedabad,zomato,187573
+2720,Mediterranean,Ahmedabad,zomato,76216
+2721,North Indian,Ahmedabad,zomato,166002
+2722,Korean,Ahmedabad,zomato,56486
+2723,South Indian,Ahmedabad,zomato,92703
+2724,Seafood,Ahmedabad,zomato,117622
+2725,Continental,Ahmedabad,zomato,92944
+2726,Italian,Ahmedabad,zomato,22645
+2727,Mediterranean,Ahmedabad,zomato,89036
+2728,Fast Food,Ahmedabad,zomato,280016
+2729,Cafe,Ahmedabad,zomato,104080
+2730,Street Food,Ahmedabad,zomato,208619
+2731,Mughlai,Ahmedabad,zomato,137799
+2732,Japanese,Ahmedabad,zomato,192634
+2733,Mediterranean,Ahmedabad,zomato,132051
+2734,Cafe,Ahmedabad,zomato,105940
+2735,Mediterranean,Ahmedabad,zomato,127972
+2736,Japanese,Ahmedabad,zomato,196219
+2737,Mediterranean,Ahmedabad,zomato,199585
+2738,Lebanese,Ahmedabad,zomato,100096
+2739,Chinese,Ahmedabad,zomato,118030
+2740,Mughlai,Ahmedabad,zomato,188233
+2741,Italian,Ahmedabad,zomato,189500
+2742,Street Food,Ahmedabad,zomato,118605
+2743,Japanese,Ahmedabad,zomato,103252
+2744,Korean,Ahmedabad,zomato,249288
+2745,Korean,Ahmedabad,zomato,37712
+2746,South Indian,Ahmedabad,zomato,226207
+2747,Chinese,Ahmedabad,zomato,101843
+2748,Biryani,Ahmedabad,zomato,98105
+2749,Bakery,Ahmedabad,zomato,91599
+2750,Vietnamese,Ahmedabad,zomato,73255
+2751,Vietnamese,Ahmedabad,zomato,132182
+2752,Bakery,Ahmedabad,zomato,56522
+2753,South Indian,Ahmedabad,zomato,120937
+2754,Thai,Ahmedabad,zomato,93486
+2755,Desserts,Ahmedabad,zomato,68576
+2756,Biryani,Ahmedabad,zomato,112628
+2757,Fast Food,Ahmedabad,zomato,279164
+2758,South Indian,Ahmedabad,zomato,130424
+2759,Mughlai,Ahmedabad,zomato,98667
+2760,Vietnamese,Ahmedabad,zomato,73506
+2761,South Indian,Ahmedabad,zomato,112032
+2762,Desserts,Ahmedabad,zomato,29230
+2763,Mexican,Ahmedabad,zomato,20327
+2764,Multi-Cuisine,Ahmedabad,zomato,81432
+2765,Italian,Ahmedabad,zomato,167785
+2766,North Indian,Ahmedabad,zomato,152602
+2767,Chinese,Ahmedabad,zomato,71143
+2768,Mexican,Ahmedabad,zomato,39921
+2769,Pan-Asian,Ahmedabad,zomato,203400
+2770,Fast Food,Ahmedabad,zomato,204639
+2771,Cafe,Ahmedabad,zomato,109614
+2772,Italian,Ahmedabad,zomato,275485
+2773,Mexican,Ahmedabad,zomato,33499
+2774,South Indian,Ahmedabad,zomato,229356
+2775,Mexican,Ahmedabad,zomato,85732
+2776,Multi-Cuisine,Ahmedabad,zomato,40823
+2777,Korean,Ahmedabad,zomato,80815
+2778,Seafood,Ahmedabad,zomato,142408
+2779,Seafood,Ahmedabad,zomato,113459
+2780,South Indian,Ahmedabad,zomato,178295
+2781,Continental,Ahmedabad,zomato,240235
+2782,Mediterranean,Ahmedabad,zomato,27488
+2783,Street Food,Ahmedabad,zomato,156227
+2784,Mexican,Ahmedabad,zomato,212565
+2785,Korean,Ahmedabad,zomato,104949
+2786,Italian,Ahmedabad,zomato,189966
+2787,Bakery,Ahmedabad,zomato,166672
+2788,Biryani,Ahmedabad,zomato,172480
+2789,Biryani,Ahmedabad,zomato,90258
+2790,Korean,Ahmedabad,zomato,102823
+2791,Biryani,Ahmedabad,zomato,92146
+2792,Biryani,Ahmedabad,zomato,38796
+2793,Chinese,Ahmedabad,zomato,78642
+2794,Chinese,Ahmedabad,zomato,214828
+2795,Bakery,Jaipur,zomato,109267
+2796,Chinese,Jaipur,zomato,138859
+2797,Biryani,Jaipur,zomato,73636
+2798,Desserts,Jaipur,zomato,168855
+2799,Thai,Jaipur,zomato,26213
+2800,Continental,Jaipur,zomato,68155
+2801,Biryani,Jaipur,zomato,36234
+2802,Desserts,Jaipur,zomato,175505
+2803,Continental,Jaipur,zomato,72985
+2804,Thai,Jaipur,zomato,163007
+2805,Continental,Jaipur,zomato,44736
+2806,Continental,Jaipur,zomato,26653
+2807,Cafe,Jaipur,zomato,24406
+2808,Chinese,Jaipur,zomato,181627
+2809,Multi-Cuisine,Jaipur,zomato,34472
+2810,Thai,Jaipur,zomato,67396
+2811,Mexican,Jaipur,zomato,51219
+2812,Korean,Jaipur,zomato,40332
+2813,Biryani,Jaipur,zomato,195918
+2814,Multi-Cuisine,Jaipur,zomato,107934
+2815,Italian,Jaipur,zomato,119695
+2816,Desserts,Jaipur,zomato,153896
+2817,Seafood,Jaipur,zomato,52777
+2818,Korean,Jaipur,zomato,87467
+2819,Street Food,Jaipur,zomato,33899
+2820,North Indian,Jaipur,zomato,124195
+2821,Multi-Cuisine,Jaipur,zomato,20775
+2822,North Indian,Jaipur,zomato,166806
+2823,Mughlai,Jaipur,zomato,29058
+2824,Korean,Jaipur,zomato,54779
+2825,Bakery,Jaipur,zomato,103374
+2826,Chinese,Jaipur,zomato,95019
+2827,Multi-Cuisine,Jaipur,zomato,220925
+2828,Cafe,Jaipur,zomato,23712
+2829,North Indian,Jaipur,zomato,258174
+2830,Thai,Jaipur,zomato,157974
+2831,Bakery,Jaipur,zomato,96943
+2832,Seafood,Jaipur,zomato,31349
+2833,Desserts,Jaipur,zomato,149477
+2834,Fast Food,Jaipur,zomato,20239
+2835,South Indian,Jaipur,zomato,184704
+2836,Mediterranean,Jaipur,zomato,286692
+2837,Cafe,Jaipur,zomato,235053
+2838,Fast Food,Jaipur,zomato,156729
+2839,Mediterranean,Jaipur,zomato,139053
+2840,Thai,Jaipur,zomato,118760
+2841,Mediterranean,Jaipur,zomato,19216
+2842,Multi-Cuisine,Jaipur,zomato,244790
+2843,Fast Food,Jaipur,zomato,23799
+2844,Lebanese,Jaipur,zomato,282413
+2845,Thai,Jaipur,zomato,113893
+2846,Desserts,Jaipur,zomato,101475
+2847,Pan-Asian,Jaipur,zomato,90838
+2848,Japanese,Jaipur,zomato,184474
+2849,Seafood,Jaipur,zomato,114225
+2850,Thai,Jaipur,zomato,34550
+2851,Italian,Jaipur,zomato,219736
+2852,Seafood,Jaipur,zomato,190255
+2853,Seafood,Jaipur,zomato,130523
+2854,Seafood,Jaipur,zomato,236617
+2855,South Indian,Jaipur,zomato,25079
+2856,Mediterranean,Jaipur,zomato,230801
+2857,Fast Food,Jaipur,zomato,140343
+2858,Biryani,Jaipur,zomato,113461
+2859,Fast Food,Jaipur,zomato,137744
+2860,South Indian,Jaipur,zomato,103512
+2861,Mexican,Jaipur,zomato,180371
+2862,South Indian,Jaipur,zomato,19845
+2863,Mughlai,Jaipur,zomato,96625
+2864,South Indian,Jaipur,zomato,57023
+2865,Street Food,Jaipur,zomato,53279
+2866,Street Food,Jaipur,zomato,70288
+2867,Korean,Jaipur,zomato,110655
+2868,Pan-Asian,Jaipur,zomato,311814
+2869,Japanese,Jaipur,zomato,61509
+2870,Thai,Jaipur,zomato,15837
+2871,Street Food,Jaipur,zomato,112658
+2872,Desserts,Lucknow,zomato,62048
+2873,South Indian,Lucknow,zomato,45332
+2874,Korean,Lucknow,zomato,44221
+2875,Desserts,Lucknow,zomato,76151
+2876,South Indian,Lucknow,zomato,96070
+2877,Mediterranean,Lucknow,zomato,116445
+2878,Pan-Asian,Lucknow,zomato,26754
+2879,Mexican,Lucknow,zomato,56614
+2880,Cafe,Lucknow,zomato,303680
+2881,Japanese,Lucknow,zomato,442150
+2882,Lebanese,Lucknow,zomato,170670
+2883,Fast Food,Lucknow,zomato,92483
+2884,North Indian,Lucknow,zomato,18123
+2885,Lebanese,Lucknow,zomato,137951
+2886,Vietnamese,Lucknow,zomato,79680
+2887,Vietnamese,Lucknow,zomato,144608
+2888,Korean,Lucknow,zomato,227331
+2889,South Indian,Lucknow,zomato,58238
+2890,Mediterranean,Lucknow,zomato,121089
+2891,Bakery,Lucknow,zomato,275351
+2892,Bakery,Lucknow,zomato,122119
+2893,Japanese,Lucknow,zomato,131978
+2894,Mexican,Lucknow,zomato,30514
+2895,Italian,Lucknow,zomato,58781
+2896,Chinese,Lucknow,zomato,87712
+2897,Biryani,Lucknow,zomato,24888
+2898,Thai,Lucknow,zomato,198715
+2899,Mexican,Lucknow,zomato,48078
+2900,South Indian,Lucknow,zomato,147554
+2901,Pan-Asian,Lucknow,zomato,128001
+2902,Chinese,Lucknow,zomato,105650
+2903,Italian,Lucknow,zomato,68763
+2904,North Indian,Lucknow,zomato,37738
+2905,Multi-Cuisine,Lucknow,zomato,257582
+2906,North Indian,Lucknow,zomato,380274
+2907,Fast Food,Lucknow,zomato,249250
+2908,Fast Food,Lucknow,zomato,195256
+2909,Mexican,Lucknow,zomato,211917
+2910,Mexican,Lucknow,zomato,68253
+2911,South Indian,Lucknow,zomato,207779
+2912,Mughlai,Lucknow,zomato,31346
+2913,South Indian,Lucknow,zomato,96665
+2914,Multi-Cuisine,Lucknow,zomato,139308
+2915,Mughlai,Lucknow,zomato,73921
+2916,Bakery,Lucknow,zomato,139410
+2917,Mexican,Lucknow,zomato,18330
+2918,Seafood,Lucknow,zomato,132529
+2919,Biryani,Lucknow,zomato,95376
+2920,Chinese,Lucknow,zomato,74815
+2921,Fast Food,Lucknow,zomato,262296
+2922,Chinese,Lucknow,zomato,293991
+2923,Continental,Lucknow,zomato,326951
+2924,North Indian,Lucknow,zomato,104000
+2925,Pan-Asian,Lucknow,zomato,80973
+2926,Multi-Cuisine,Lucknow,zomato,77666
+2927,Chinese,Lucknow,zomato,232406
